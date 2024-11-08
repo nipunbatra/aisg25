@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ES335"
+  title: "AI4SG"
   favicon: images/logo.jpeg
   navbar:
     logo: images/logo.jpeg
