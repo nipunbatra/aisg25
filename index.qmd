@@ -32,6 +32,7 @@ Topics will span a wide array of AI domains such as but limited to:
 - Public Safety and Security: Social engineering, AI for detecting misinformation, predictive policing
 
 The AI technologies would include:
+
 - Supervised Learning: Applications in classification and prediction tasks (e.g., disease diagnosis, fraud detection, poverty prediction)
 - Unsupervised Learning: Clustering and anomaly detection for environmental monitoring, resource allocation
 - Semi-supervised Learning: Addressing challenges with limited labelled data in social good applications
