@@ -3,4 +3,17 @@ title: "Grading Policy"
 ---
 
 
-TBD
+| SNo | Activity                             | Marks | Notes                                                                                   |
+|-----|--------------------------------------|-------|-----------------------------------------------------------------------------------------|
+| 1   | Paper Presentation                   | 10    | 20 mins paper presentation: Instructor plus peer grading                               |
+| 2   | Paper Review 1                       | 5     | In class: Based on abstract, introduction, fatal flaws                                 |
+| 3   | Paper Review 2                       | 15    | At home: Above plus full-fledged AI paper review: risks, ethics, datasets; on review platform; Read from existing openReview reviews |
+| 4   | Class Participation                  | 5     | 1 mark for each active class participation                                             |
+| 5   | Guest Lecture: In-Class Quiz         | 5     |                                                                                         |
+| 6   | Project Proposal and Literature Survey | 10   |                                                                                         |
+| 7   | Project Mid-Term Presentation        | 10    |                                                                                         |
+| 8   | Final Project Presentation           | 15    |                                                                                         |
+| 9   | Attendance                           | 5     |                                                                                         |
+| 10  | Assignment 1                         | 10    |                                                                                         |
+| 11  | Assignment 2                         | 10    |                                                                                         |
+|     | **Total**                            | **100**|                                                                                         |

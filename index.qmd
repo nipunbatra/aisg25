@@ -44,12 +44,23 @@ The AI technologies would include:
 
 ## Texts/References:
 
-There is no prescribed textbook for the course. We will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.
+
+[AI for Social Impact Book](https://ai4sibook.org) by Milind Tambe, Fei Fang, and Bryan Wilder
+
+ We will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.
 
 There are some related courses at top universities that would serve as a good reference
-- AI for Social Impact course at Harvard
+- [AI for Social Impact course at Harvard](https://cs288.hsites.harvard.edu/)
+- [AI for Social Impact Seminar series 2020](https://crcs.seas.harvard.edu/ai-social-impact-fall-2020)
 - Social good at Google
 - AI for Social Good course at Stanford
 - AI for social good coursera specialisation
 
+
+## Tentative guest lectures (in no order)
+
+1. Dr. Alok Talekar, Google India
+2. Dr. Harsh Parikh, John Hopkins University
+3. Dr. Aparna Taneja, Google India
+4. Dr. Anupam Sobti, Plaksha University
 
