@@ -1,0 +1,50 @@
+---
+title: "Brainstorm"
+---
+
+
+Question 1: How do you think papers on AI for social good are reviewed?
+
+
+Please see the CFP for 
+1. [AAAI AI for Social Impact track](https://aaai.org/aaai-24-conference/call-for-the-special-track-on-ai-for-social-impact/)
+2. [IJCAI AI for Social good track](https://ijcai-23.org/call-for-papers-ai-and-social-good/)
+3. [KDD Applied Data Science track](https://kdd2024.kdd.org/applied-data-science-ads-track-call-for-papers/)
+
+
+Question 2: Given some keywords from AI for SI at AAAI CFP
+- AI for Social Impact Keywords
+
+AISI: Agriculture and Food
+AISI: Climate
+AISI: Computational Social Science and Humanities
+AISI: Disaster Mitigation and Response
+AISI: Education
+AISI: Energy
+AISI: Environmental Sustainability
+AISI: Low and Middle-Income Countries / Underserved Communities
+AISI: Mobility / Transportation
+AISI: Natural Sciences
+AISI: Philosophical and Ethical Issues
+AISI: Public Health 
+AISI: Security and Privacy
+AISI: Social Development
+AISI: Social Networks and Social Media
+AISI: Social Welfare, Justice, Fairness and Equality
+AISI: Urban Planning
+AISI: Other Social Impact
+
+Think of what kind of papers will these keywords attract?
+
+Exercise 3: Let us read through abstracts of some of the best paper awards from AI for Social Impact track at top conferences like AAAI, IJCAI, KDD, NeurIPS, ICLR, etc.
+
+1. [ActiveRemediation: The Search for Lead Pipes in Flint, Michigan](https://www.kdd.org/kdd2018/accepted-papers/view/activeremediation-the-search-for-lead-pipes-in-flint-michigan), [YouTube](https://www.youtube.com/watch?v=YbIn_axYu9E) from KDD 2018.
+2. [Developing Measures of Cognitive Impairment in the Real World](https://machinelearning.apple.com/research/developing-measures-of-cognitive-impairment-in-the-real-world-from-consumer-grade-multimodal-sensor-streams), [YouTube](https://www.youtube.com/watch?v=H_wTI4LUW7A) from KDD 2019.
+2. [DISCount: Counting in Large Image Collections with Detector-Based Importance Sampling](https://ojs.aaai.org/index.php/AAAI/article/view/30235) from AAAI 2024.
+
+
+Exercise 4: Let us read through the abstracts of some papers from AI for Social Impact track and score them on AAAI AI SI criteria.
+
+
+
+
