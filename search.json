@@ -1,8 +1,15 @@
 [
   {
-    "objectID": "grading.html",
-    "href": "grading.html",
-    "title": "Grading Policy",
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "tentative.html",
+    "href": "tentative.html",
+    "title": "Tentative deadlines",
     "section": "",
     "text": "TBD"
   },
@@ -18,7 +25,14 @@
     "href": "index.html#textsreferences",
     "title": "AI For Social Good",
     "section": "Texts/References:",
-    "text": "Texts/References:\nThere is no prescribed textbook for the course. We will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.\nThere are some related courses at top universities that would serve as a good reference - AI for Social Impact course at Harvard - Social good at Google - AI for Social Good course at Stanford - AI for social good coursera specialisation"
+    "text": "Texts/References:\nAI for Social Impact Book by Milind Tambe, Fei Fang, and Bryan Wilder\nWe will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.\nThere are some related courses at top universities that would serve as a good reference - AI for Social Impact course at Harvard - AI for Social Impact Seminar series 2020 - Social good at Google - AI for Social Good course at Stanford - AI for social good coursera specialisation"
+  },
+  {
+    "objectID": "index.html#tentative-guest-lectures-in-no-order",
+    "href": "index.html#tentative-guest-lectures-in-no-order",
+    "title": "AI For Social Good",
+    "section": "Tentative guest lectures (in no order)",
+    "text": "Tentative guest lectures (in no order)\n\nDr. Alok Talekar, Google India\nDr. Harsh Parikh, John Hopkins University\nDr. Aparna Taneja, Google India\nDr. Anupam Sobti, Plaksha University"
   },
   {
     "objectID": "schedule.html",
@@ -26,20 +40,6 @@
     "title": "Schedule",
     "section": "",
     "text": "Summary\n\n\n\nTBD"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "FAQ",
-    "section": "",
-    "text": "TBD"
-  },
-  {
-    "objectID": "tentative.html",
-    "href": "tentative.html",
-    "title": "Tentative deadlines",
-    "section": "",
-    "text": "TBD"
   },
   {
     "objectID": "exams/prereq.html",
@@ -54,5 +54,12 @@
     "title": "Quizzes",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 30, 2023\n\n\nPrerequsite test\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "grading.html",
+    "href": "grading.html",
+    "title": "Grading Policy",
+    "section": "",
+    "text": "SNo\nActivity\nMarks\nNotes\n\n\n\n\n1\nPaper Presentation\n10\n20 mins paper presentation: Instructor plus peer grading\n\n\n2\nPaper Review 1\n5\nIn class: Based on abstract, introduction, fatal flaws\n\n\n3\nPaper Review 2\n15\nAt home: Above plus full-fledged AI paper review: risks, ethics, datasets; on review platform; Read from existing openReview reviews\n\n\n4\nClass Participation\n5\n1 mark for each active class participation\n\n\n5\nGuest Lecture: In-Class Quiz\n5\n\n\n\n6\nProject Proposal and Literature Survey\n10\n\n\n\n7\nProject Mid-Term Presentation\n10\n\n\n\n8\nFinal Project Presentation\n15\n\n\n\n9\nAttendance\n5\n\n\n\n10\nAssignment 1\n10\n\n\n\n11\nAssignment 2\n10\n\n\n\n\nTotal\n100"
   }
 ]
