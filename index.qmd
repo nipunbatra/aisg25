@@ -6,6 +6,10 @@ title: "AI For Social Good"
 ![](images/logo.jpeg)
 
 ::: {.callout-tip}
+Join the slack channel for the course [here](https://join.slack.com/t/aisg25/shared_invite/zt-2x40x4807-FnV~CCni2CzyrV~eXloG_A)
+:::
+
+::: {.callout-tip}
 ## Summary
 
 * Instructor: Nipun Batra <nipun.batra@iitgn.ac.in>
@@ -15,6 +19,7 @@ title: "AI For Social Good"
     * Lectures:  
 
 :::
+
 
 
 ## Course Description
