@@ -15,23 +15,40 @@ Please see the CFP for
 Question 2: Given some keywords from AI for SI at AAAI CFP
 - AI for Social Impact Keywords
 
+
 AISI: Agriculture and Food
+
 AISI: Climate
+
 AISI: Computational Social Science and Humanities
+
 AISI: Disaster Mitigation and Response
 AISI: Education
+
 AISI: Energy
+
 AISI: Environmental Sustainability
+
 AISI: Low and Middle-Income Countries / Underserved Communities
+
 AISI: Mobility / Transportation
+
 AISI: Natural Sciences
+
 AISI: Philosophical and Ethical Issues
+
 AISI: Public Health 
+
 AISI: Security and Privacy
+
 AISI: Social Development
+
 AISI: Social Networks and Social Media
+
 AISI: Social Welfare, Justice, Fairness and Equality
+
 AISI: Urban Planning
+
 AISI: Other Social Impact
 
 Think of what kind of papers will these keywords attract?
