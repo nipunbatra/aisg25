@@ -1,14 +1,14 @@
 ---
 title: "AI for Social Good: Guest Speaker Series"
-date: "2024"
 format: html
 ---
 
-## 🏥 **Building Infectious Disease Preparedness and Combating AMR Using Explainable AI**
+## 🏥 **Building Infectious Disease Preparedness and Combating AMR Using Explainable AI**  
+🗓 **Date: 29th January 2025**  
 
 <details>
-<summary>**👤 Speaker: Dr. Tavpritesh Sethi**</summary>
-<img src="https://via.placeholder.com/150" alt="Dr. Tavpritesh Sethi" align="right" width="150px">
+<summary>**👤 Speaker: Dr. Tavpritesh Sethi (IIIT Delhi)**</summary>
+<img src="https://www.iiitd.ac.in/sites/default/files/dr-tavpritesh.jpg" alt="Dr. Tavpritesh Sethi" align="right" width="150px">
 
 ### **Abstract**
 Artificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.
@@ -24,11 +24,12 @@ Dr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Cente
 
 ---
 
-## 🌍 **Future of Food: Addressing Food & Water Security with Machine Learning**
+## 🌍 **Future of Food: Addressing Food & Water Security with Machine Learning**  
+🗓 **Date: 20th February 2025**  
 
 <details>
 <summary>**👤 Speaker: Alok (Google DeepMind)**</summary>
-<img src="https://via.placeholder.com/150" alt="Alok" align="right" width="150px">
+<img src="https://media.licdn.com/dms/image/v2/C4D03AQGpiIdrgdnL7Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516779728637?e=2147483647&v=beta&t=qwCPX9MFqA9oo7IvfxB4xCDxSfxVL5Tic-WpFmV7OdI" alt="Alok" align="right" width="150px">
 
 ### **Abstract**
 The global food system faces unprecedented challenges. In 2023, 2.4 billion people experienced moderate to severe food insecurity due to climate change and shifting diets. Agriculture contributes significantly to greenhouse gas emissions, necessitating a shift toward sustainable practices.
