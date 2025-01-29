@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/faq.html</loc>
-    <lastmod>2025-01-06T09:15:45.464Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/seminar.html</loc>
+    <lastmod>2025-01-29T06:41:29.647Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/tentative.html</loc>
-    <lastmod>2025-01-06T09:15:45.468Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/exams/prereq.html</loc>
+    <lastmod>2025-01-29T06:41:29.643Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/quizzes.html</loc>
-    <lastmod>2025-01-06T09:15:45.468Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/index.html</loc>
+    <lastmod>2025-01-29T06:41:29.647Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/exams/prereq.html</loc>
-    <lastmod>2025-01-06T09:15:45.464Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/faq.html</loc>
+    <lastmod>2025-01-29T06:41:29.643Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/schedule.html</loc>
-    <lastmod>2025-01-06T09:15:45.468Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/tentative.html</loc>
+    <lastmod>2025-01-29T06:41:29.647Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/index.html</loc>
-    <lastmod>2025-01-06T09:15:45.468Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/brainstorm.html</loc>
+    <lastmod>2025-01-29T06:41:29.643Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/brainstorm.html</loc>
-    <lastmod>2025-01-06T09:15:45.463Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/schedule.html</loc>
+    <lastmod>2025-01-29T06:41:29.647Z</lastmod>
   </url>
   <url>
-    <loc>https://nipunbatra.github.io/aisg24/grading.html</loc>
-    <lastmod>2025-01-06T09:15:45.464Z</lastmod>
+    <loc>https://nipunbatra.github.io/aisg25/grading.html</loc>
+    <lastmod>2025-01-29T06:41:29.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nipunbatra.github.io/aisg25/quizzes.html</loc>
+    <lastmod>2025-01-29T06:41:29.647Z</lastmod>
   </url>
 </urlset>

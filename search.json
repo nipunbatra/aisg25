@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "FAQ",
+    "objectID": "seminar.html",
+    "href": "seminar.html",
+    "title": "AI for Social Good: Guest Speaker Series",
     "section": "",
-    "text": "TBD"
+    "text": "👤 Speaker: Dr. Tavpritesh Sethi\n\n\n\n\nArtificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.\n\n\n\nDr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Center of Excellence in Healthcare. With a Ph.D. in computational biology, he is a globally recognized expert in data science for healthcare.\n🏆 He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge, and MIT Tech Review’s TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems, and multimodal AI tools.\n📄 Published 50+ papers | 🎤 TEDx Speaker | 🔬 Fellow at Kavli Foundation & DBT/Wellcome India Alliance"
   },
   {
-    "objectID": "tentative.html",
-    "href": "tentative.html",
-    "title": "Tentative deadlines",
+    "objectID": "seminar.html#building-infectious-disease-preparedness-and-combating-amr-using-explainable-ai",
+    "href": "seminar.html#building-infectious-disease-preparedness-and-combating-amr-using-explainable-ai",
+    "title": "AI for Social Good: Guest Speaker Series",
     "section": "",
-    "text": "TBD"
+    "text": "👤 Speaker: Dr. Tavpritesh Sethi\n\n\n\n\nArtificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.\n\n\n\nDr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Center of Excellence in Healthcare. With a Ph.D. in computational biology, he is a globally recognized expert in data science for healthcare.\n🏆 He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge, and MIT Tech Review’s TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems, and multimodal AI tools.\n📄 Published 50+ papers | 🎤 TEDx Speaker | 🔬 Fellow at Kavli Foundation & DBT/Wellcome India Alliance"
   },
   {
-    "objectID": "quizzes.html",
-    "href": "quizzes.html",
-    "title": "Quizzes",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 30, 2023\n\n\nPrerequsite test\n\n\n \n\n\n\n\n\nNo matching items"
+    "objectID": "seminar.html#future-of-food-addressing-food-water-security-with-machine-learning",
+    "href": "seminar.html#future-of-food-addressing-food-water-security-with-machine-learning",
+    "title": "AI for Social Good: Guest Speaker Series",
+    "section": "🌍 Future of Food: Addressing Food & Water Security with Machine Learning",
+    "text": "🌍 Future of Food: Addressing Food & Water Security with Machine Learning\n\n\n👤 Speaker: Alok (Google DeepMind)\n\n\n\nAbstract\nThe global food system faces unprecedented challenges. In 2023, 2.4 billion people experienced moderate to severe food insecurity due to climate change and shifting diets. Agriculture contributes significantly to greenhouse gas emissions, necessitating a shift toward sustainable practices.\n📈 To feed a projected 9.6 billion people by 2050, the FAO estimates a 60% increase in food production. Machine learning can drive this transformation through digitization, precision monitoring, and data-driven decisions.\n\n\nBiosketch\nAlok is a software engineer at Google DeepMind leading AnthroKrishi, a team focused on remote sensing and AI-driven agriculture solutions.\n🌍 Founding member of Climate Trace | 🎓 Google.org Fellow with WattTime | 👨‍💻 15 years in tech | 🤝 Leads a 5000-member grassroots climate group at Google\n\n\nStay tuned for more engaging talks in our AI for Social Good speaker series! 🚀"
   },
   {
     "objectID": "exams/prereq.html",
@@ -26,13 +26,6 @@
     "title": "Prerequsite test",
     "section": "",
     "text": "Instructions\n\nThis test is open book, open internet, open notes. You can use any resources you want to solve the problems.\nYou should be typing your answers in a Jupyter notebook.\nThe submission would be a link to a public GitHub repository containing the notebook. Fill this form to submit your solution.\nA random subset of students may have a viva post the exam. The viva would be based on the notebook and the solutions you have provided.\nThe test is open till 6th January 2024 9 PM. You can submit your solutions anytime before that.\nThis problem has to be solved individually. You cannot collaborate with anyone else.\nThe code should be written using Python.\nSome questions may require you to answer in text. You can use markdown cells to write your answers. Some questions may require you to write code. You can use code cells to write your code. Some questions may require you to write mathematical expressions. You can use LaTeX to write your expressions. You can write such LaTeX expressions in markdown cells.\nFor any other questions, please ask on the General channel on Slack.\n\n\n\n\nQuestions\n\nHow many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.\nWrite Python code to multiply the above two matrices. Solve using list of lists and then use numpy. Compare the timing of both solutions. Which one is faster? Why?\nFinding the highest element in a list requires one pass of the array. Finding the second highest element requires 2 passes of the the array. Using this method, what is the time complexity of finding the median of the array? Can you suggest a better method? Can you implement both these methods in Python and compare against numpy.median routine in terms of time?\nWhat is the gradient of the following function with respect to x and y? \\[\nx^2y+y^3\\sin(x)\n\\]\nUse JAX to confirm the gradient evaluated by your method matches the analytical solution corresponding to a few random values of x and y\nUse sympy to confirm that you obtain the same gradient analytically.\nCreate a Python nested dictionary to represent hierarchical information. We want to store record of students and their marks. Something like:\n\n2022\n\nBranch 1\n\nRoll Number: 1, Name: N, Marks:\n\nMaths: 100, English: 70 …\n\n\nBranch 2\n\n2023\n\nBranch 1\nBranch 2\n\n2024\n\nBranch 1\nBranch 2\n\n2025\n\nBranch 1\nBranch 2\n\n\nStore the same information using Python classes. We have an overall database which is a list of year objects. Each year contains a list of branches. Each branch contains a list of students. Each student has some properties like name, roll number and has marks in some subjects.\nUsing matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.\n\n\\(y = x\\)\n\\(y = x^2\\)\n\\(y = \\frac{x^3}{100}\\)\n\\(y = \\sin(x)\\)\n\\(y = \\frac{\\sin(x)}{x}\\)\n\\(y = \\log(x)\\)\n\\(y = e^x\\)\n\nUsing numpy generate a matrix of size 20X5 containing random numbers drawn uniformly from the range of 1 to 2. Using Pandas create a dataframe out of this matrix. Name the columns of the dataframe as “a”, “b”, “c”, “d”, “e”. Find the column with the highest standard deviation. Find the row with the lowest mean.\nAdd a new column to the dataframe called “f” which is the sum of the columns “a”, “b”, “c”, “d”, “e”. Create another column called “g”. The value in the column “g” should be “LT8” if the value in the column “f” is less than 8 and “GT8” otherwise. Find the number of rows in the dataframe where the value in the column “g” is “LT8”. Find the standard deviation of the column “f” for the rows where the value in the column “g” is “LT8” and “GT8” respectively.\nWrite a small piece of code to explain broadcasting in numpy.\nWrite a function to compute the argmin of a numpy array. The function should take a numpy array as input and return the index of the minimum element. You can use the np.argmin function to verify your solution."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Summary\n\n\n\nTBD"
   },
   {
     "objectID": "index.html#course-description",
@@ -56,6 +49,20 @@
     "text": "Tentative guest lectures (in no order)\n\nDr. Alok Talekar, Google India\nDr. Harsh Parikh, John Hopkins University\nDr. Aparna Taneja, Google India\nDr. Anupam Sobti, Plaksha University"
   },
   {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "tentative.html",
+    "href": "tentative.html",
+    "title": "Tentative deadlines",
+    "section": "",
+    "text": "TBD"
+  },
+  {
     "objectID": "brainstorm.html",
     "href": "brainstorm.html",
     "title": "Brainstorm",
@@ -63,10 +70,24 @@
     "text": "Question 1: How do you think papers on AI for social good are reviewed?\nPlease see the CFP for 1. AAAI AI for Social Impact track 2. IJCAI AI for Social good track 3. KDD Applied Data Science track\nQuestion 2: Given some keywords from AI for SI at AAAI CFP - AI for Social Impact Keywords\nAISI: Agriculture and Food\nAISI: Climate\nAISI: Computational Social Science and Humanities\nAISI: Disaster Mitigation and Response AISI: Education\nAISI: Energy\nAISI: Environmental Sustainability\nAISI: Low and Middle-Income Countries / Underserved Communities\nAISI: Mobility / Transportation\nAISI: Natural Sciences\nAISI: Philosophical and Ethical Issues\nAISI: Public Health\nAISI: Security and Privacy\nAISI: Social Development\nAISI: Social Networks and Social Media\nAISI: Social Welfare, Justice, Fairness and Equality\nAISI: Urban Planning\nAISI: Other Social Impact\nThink of what kind of papers will these keywords attract?\nExercise 3: Let us read through abstracts of some of the best paper awards from AI for Social Impact track at top conferences like AAAI, IJCAI, KDD, NeurIPS, ICLR, etc.\n\nActiveRemediation: The Search for Lead Pipes in Flint, Michigan, YouTube from KDD 2018.\nDeveloping Measures of Cognitive Impairment in the Real World, YouTube from KDD 2019.\nDISCount: Counting in Large Image Collections with Detector-Based Importance Sampling from AAAI 2024.\n\nExercise 4: Let us read through the abstracts of some papers from AI for Social Impact track and score them on AAAI AI SI criteria."
   },
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Summary\n\n\n\nTBD"
+  },
+  {
     "objectID": "grading.html",
     "href": "grading.html",
     "title": "Grading Policy",
     "section": "",
     "text": "SNo\nActivity\nMarks\nNotes\n\n\n\n\n1\nPaper Presentation\n10\n20 mins paper presentation: Instructor plus peer grading\n\n\n2\nPaper Review 1\n5\nIn class: Based on abstract, introduction, fatal flaws\n\n\n3\nPaper Review 2\n15\nAt home: Above plus full-fledged AI paper review: risks, ethics, datasets; on review platform; Read from existing openReview reviews\n\n\n4\nClass Participation\n5\n1 mark for each active class participation\n\n\n5\nGuest Lecture: In-Class Quiz\n5\n\n\n\n6\nProject Proposal and Literature Survey\n10\n\n\n\n7\nProject Mid-Term Presentation\n10\n\n\n\n8\nFinal Project Presentation\n15\n\n\n\n9\nAttendance\n5\n\n\n\n10\nAssignment 1\n10\n\n\n\n11\nAssignment 2\n10\n\n\n\n\nTotal\n100"
+  },
+  {
+    "objectID": "quizzes.html",
+    "href": "quizzes.html",
+    "title": "Quizzes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 30, 2023\n\n\nPrerequsite test\n\n\n \n\n\n\n\n\nNo matching items"
   }
 ]
