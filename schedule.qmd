@@ -18,8 +18,7 @@ Content will get added here as the course progresses
 |1| 08 Jan 2025| Lecture 1|
 |2| 10 Jan 2025| Class Cancelled|
 |3| 15 Jan 2025| Lecture 2|
-|4| 17 Jan 2025| Paper Presentation|Atharva Tiwari- "Copycats: The Many Lives of a Publicly Available Medical Imaging Dataset",
-Mihir Agarwal-"Learning of Cluster-based Feature Importance for Electronic Health Record Time-series",Shreyans Jain-"UniverSeg: Universal Medical Image Segmentation"|
+|4| 17 Jan 2025| Paper Presentation|Copycats: The Many Lives of a Publicly Available Medical Imaging Dataset, Learning of Cluster-based Feature Importance for Electronic Health Record Time-series, UniverSeg: Universal Medical Image Segmentation|
 |5| 22 Jan 2025| Paper Presentation|
 |6| 24 Jan 2025| Paper Presentation|
 |7| 29 Jan 2025| Talk by Dr. Tavpritesh Sethi|Title: Building Infectious Disease Preparedness and Combating AMR Using Explainable Artificial Intelligence| <a href="https://www.youtube.com/watch?v=KeQ7gTXpA1M" target="_blank">Youtube</a>|
