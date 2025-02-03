@@ -4,7 +4,7 @@ title: "Schedule"
 
 ::: {.callout-tip}
 ## Summary
-[YouTube playlist containing recordings]
+[YouTube playlist containing recordings](https://www.youtube.com/@SustainabilityLab-SL)
 
 
 Content will get added here as the course progresses
