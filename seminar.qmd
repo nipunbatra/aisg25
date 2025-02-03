@@ -24,6 +24,19 @@ Dr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Cente
 
 ---
 
+## 🌍 **Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images**  
+🗓 **Date: 5th February 2025**  
+
+<details>
+<summary>**👤 Speaker: Anupam Sobti (Assistant professor at Plaksha University)**</summary>
+
+### **Abstract**
+As artificial intelligence spreads its wings, it provides us an opportunity to tackle long standing societal problems by shortening the information gap – whether it’s information about the historical produce of a farm to a bank or declining condition of a road to your local municipal authority. In this talk, I will share examples and opportunities where machine learning based perception systems are being (or could be) used to provide economical and reliable information to the right users at the right time to address many challenges that arise in these socio-technical systems. We will discuss how these ‘sentients’ could enthuse efficiency in data-driven decision making for policy makers as well as operational pipelines.
+
+</details>
+
+---
+
 ## 🌍 **Future of Food: Addressing Food & Water Security with Machine Learning**  
 🗓 **Date: 20th February 2025**  
 
@@ -42,7 +55,4 @@ Alok is a software engineer at Google DeepMind leading AnthroKrishi, a team focu
 🌍 Founding member of Climate Trace | 🎓 Google.org Fellow with WattTime | 👨‍💻 15 years in tech | 🤝 Leads a 5000-member grassroots climate group at Google
 
 </details>
-
----
-
 Stay tuned for more engaging talks in our **AI for Social Good** speaker series! 🚀
