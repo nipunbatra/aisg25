@@ -4,5 +4,23 @@ title: "Schedule"
 
 ::: {.callout-tip}
 ## Summary
+[YouTube playlist containing recordings]
 
-TBD
+
+Content will get added here as the course progresses
+
+:::
+
+
+| Lecture # |    Date     | Topic          | Material | 
+| :------: | :--------: | :-------------------------: |:---------------:| 
+|     0     | 03 Jan 2025 | Introduction and Logistics |  
+|1| 08 Jan 2025| Lecture 1|
+|2| 10 Jan 2025| Class Cancelled|
+|3| 15 Jan 2025| Lecture 2|
+|4| 17 Jan 2025| Paper Presentation|
+|5| 22 Jan 2025| Paper Presentation|
+|6| 24 Jan 2025| Paper Presentation|
+|7| 29 Jan 2025| Talk by Dr. Tavpritesh Sethi|Title: Building Infectious Disease Preparedness and Combating AMR Using Explainable Artificial Intelligence| <a href="https://www.youtube.com/watch?v=KeQ7gTXpA1M" target="_blank">Youtube</a>|
+|8| 31 Jan 2025| Paper Presentation|
+|9| 5 Feb 2025| Talk by Dr. Anupam Sobti| Title: Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images|
