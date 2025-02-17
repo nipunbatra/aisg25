@@ -17,3 +17,44 @@ title: "Grading Policy"
 | 10  | Assignment 1                         | 10    |                                                                                         |
 | 11  | Assignment 2                         | 10    |                                                                                         |
 |     | **Total**                            | **100**|                                                                                         |
+
+
+
+# **Paper Replication Project – Evaluation Plan**
+
+## **Objective**
+Replicate a NeurIPS-like paper in a **social good setting**.
+
+## **Total Marks**: **35 (10 + 10 + 15)**  
+- **Evaluation 1**: Proposal & Gantt Chart (**10 Marks**) – **Feb 19 (Wednesday)**  
+- **Evaluation 2**: Mid-Project Progress (**10 Marks**) – **Post Mid-Sem Break**  
+- **Evaluation 3**: Final Presentation (**15 Marks**) – **End of Semester**  
+
+---
+
+## **Evaluation 1: Proposal & Gantt Chart (10 Marks) – Feb 19**
+- **Format**: 10-minute group presentation  
+- **Criteria**:
+  - **Understanding of the Paper** (**4 marks**) – Explanation of the paper and its key contributions  
+  - **Feasibility Analysis** (**3 marks**) – Assessment of whether the paper can be replicated based on available code/data  
+  - **Gantt Chart & Planning** (**3 marks**) – Clear project timeline with milestones  
+
+---
+
+## **Evaluation 2: Mid-Project Progress (10 Marks) – Post Mid-Sem Break**
+- **Format**: Short update presentation (approx. 10 minutes)  
+- **Criteria**:
+  - **Replication Progress** (**5 marks**) – How much of the paper has been successfully replicated  
+  - **Challenges & Solutions** (**3 marks**) – Problems faced and how the team is addressing them  
+  - **Adherence to Plan** (**2 marks**) – Is the project on track as per the Gantt chart?  
+
+---
+
+## **Evaluation 3: Final Presentation (15 Marks) – End of Semester**
+- **Format**: Detailed group presentation with results and learnings  
+- **Criteria**:
+  - **Successful Replication** (**6 marks**) – Whether key experiments/results were reproduced  
+  - **Social Good Adaptation** (**5 marks**) – How well the replication has been contextualized for social impact  
+  - **Analysis & Insights** (**4 marks**) – Interpretation of results, limitations, and future scope  
+
+
