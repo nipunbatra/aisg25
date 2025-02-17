@@ -19,6 +19,22 @@ title: "Grading Policy"
 |     | **Total**                            | **100**|                                                                                         |
 
 
+# **Paper Presentation Evaluation Criteria**
+
+Each individual paper presentation will be evaluated based on the following criteria:
+
+| SNo | Category                                  | Marks |
+|---- |------------------------------------------|-------|
+| 1   | **Presentation Quality** (spoken and slides) | 3     |
+| 2   | **Q&A**                                  | 1     |
+| 3   | **Discussion: Reasons to Accept**       | 2     |
+| 4   | **Discussion: Reasons to Reject**       | 2     |
+| 5   | **Explaining Approach**                 | 2     |
+| **Total** | **—**                             | **10** |
+
+Each presenter is expected to clearly articulate the paper’s key ideas, defend their interpretation during Q&A, and contribute to discussions on whether the paper should be accepted or rejected.
+
+---
 
 # **Paper Replication Project – Evaluation Plan**
 
