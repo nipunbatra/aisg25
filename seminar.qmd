@@ -1,58 +1,43 @@
 ---
-title: "AI for Social Good: Guest Speaker Series"
-format: html
+title: "Guest talks"
 ---
 
-## 🏥 **Building Infectious Disease Preparedness and Combating AMR Using Explainable AI**  
-🗓 **Date: 29th January 2025**  
+```{=html}
+<p class="lede">The AI for Social Good guest speaker series of the 2025 offering. An in-class quiz on the guest lectures counts for 5 marks.</p>
+```
 
-<details>
-<summary>**👤 Speaker: Dr. Tavpritesh Sethi (IIIT Delhi)**</summary>
-<img src="https://www.iiitd.ac.in/sites/default/files/dr-tavpritesh.jpg" alt="Dr. Tavpritesh Sethi" align="right" width="150px">
+## Building infectious disease preparedness and combating AMR using explainable AI {#sethi}
 
-### **Abstract**
-Artificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.
+**29 January 2025** · Dr. Tavpritesh Sethi, IIIT Delhi · [Recording](https://www.youtube.com/watch?v=KeQ7gTXpA1M)
 
-### **Biosketch**
-Dr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Center of Excellence in Healthcare. With a Ph.D. in computational biology, he is a globally recognized expert in data science for healthcare. 
+### Abstract
 
-🏆 He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge, and MIT Tech Review's TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems, and multimodal AI tools.
+Artificial intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI's potential in combating antimicrobial resistance (AMR) and in high-risk intensive care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.
 
-📄 Published 50+ papers | 🎤 TEDx Speaker | 🔬 Fellow at Kavli Foundation & DBT/Wellcome India Alliance
+### Biosketch
 
-</details>
+Dr. Tavpritesh Sethi is an Associate Professor at IIIT Delhi and leads the Center of Excellence in Healthcare. With a PhD in computational biology, he is a globally recognised expert in data science for healthcare.
 
----
+He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge and MIT Technology Review's TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems and multimodal AI tools. He has published more than 50 papers, is a TEDx speaker, and is a Fellow of the Kavli Foundation and the DBT/Wellcome India Alliance.
 
-## 🌍 **Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images**  
-🗓 **Date: 5th February 2025**  
+## Applying geospatial machine learning for societal impact: Devices, satellites and images {#sobti}
 
-<details>
-<summary>**👤 Speaker: Anupam Sobti (Assistant professor at Plaksha University)**</summary>
+**5 February 2025** · Dr. Anupam Sobti, Assistant Professor, Plaksha University
 
-### **Abstract**
-As artificial intelligence spreads its wings, it provides us an opportunity to tackle long standing societal problems by shortening the information gap – whether it’s information about the historical produce of a farm to a bank or declining condition of a road to your local municipal authority. In this talk, I will share examples and opportunities where machine learning based perception systems are being (or could be) used to provide economical and reliable information to the right users at the right time to address many challenges that arise in these socio-technical systems. We will discuss how these ‘sentients’ could enthuse efficiency in data-driven decision making for policy makers as well as operational pipelines.
+### Abstract
 
-</details>
+As artificial intelligence spreads its wings, it provides us an opportunity to tackle long-standing societal problems by shortening the information gap, whether it is information about the historical produce of a farm to a bank or the declining condition of a road to your local municipal authority. In this talk, I will share examples and opportunities where machine learning based perception systems are being (or could be) used to provide economical and reliable information to the right users at the right time, to address many challenges that arise in these socio-technical systems. We will discuss how these "sentients" could enthuse efficiency in data-driven decision making for policy makers as well as operational pipelines.
 
----
+## Future of food: Addressing food and water security with machine learning {#alok}
 
-## 🌍 **Future of Food: Addressing Food & Water Security with Machine Learning**  
-🗓 **Date: 20th February 2025**  
+**20 February 2025** · Alok, Google DeepMind
 
-<details>
-<summary>**👤 Speaker: Alok (Google DeepMind)**</summary>
-<img src="https://media.licdn.com/dms/image/v2/C4D03AQGpiIdrgdnL7Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516779728637?e=2147483647&v=beta&t=qwCPX9MFqA9oo7IvfxB4xCDxSfxVL5Tic-WpFmV7OdI" alt="Alok" align="right" width="150px">
+### Abstract
 
-### **Abstract**
 The global food system faces unprecedented challenges. In 2023, 2.4 billion people experienced moderate to severe food insecurity due to climate change and shifting diets. Agriculture contributes significantly to greenhouse gas emissions, necessitating a shift toward sustainable practices.
 
-📈 To feed a projected 9.6 billion people by 2050, the FAO estimates a 60% increase in food production. Machine learning can drive this transformation through digitization, precision monitoring, and data-driven decisions.
+To feed a projected 9.6 billion people by 2050, the FAO estimates a 60% increase in food production. Machine learning can drive this transformation through digitisation, precision monitoring and data-driven decisions.
 
-### **Biosketch**
-Alok is a software engineer at Google DeepMind leading AnthroKrishi, a team focused on remote sensing and AI-driven agriculture solutions.
+### Biosketch
 
-🌍 Founding member of Climate Trace | 🎓 Google.org Fellow with WattTime | 👨‍💻 15 years in tech | 🤝 Leads a 5000-member grassroots climate group at Google
-
-</details>
-Stay tuned for more engaging talks in our **AI for Social Good** speaker series! 🚀
+Alok is a software engineer at Google DeepMind leading AnthroKrishi, a team focused on remote sensing and AI-driven agriculture solutions. He is a founding member of Climate TRACE and was a Google.org Fellow with WattTime. He has 15 years in technology and leads a 5,000-member grassroots climate group at Google.

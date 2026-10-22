@@ -1,8 +1,10 @@
 ---
 title: "Quizzes"
-listing:
-  contents: exams
-  type: table
-  sort: "date"  
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=assessment.html">
+    <link rel="canonical" href="https://nipunbatra.github.io/aisg25/assessment.html">
+    <meta name="robots" content="noindex">
 ---
 
+This page has moved: [go to Assessment](/assessment.html).

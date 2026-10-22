@@ -1,0 +1,78 @@
+---
+title: "Assessment"
+body-classes: dl wide
+---
+
+```{=html}
+<p class="lede">Grading, the paper presentation criteria, the paper replication project and every dated event of the 2025 offering in one place.</p>
+```
+
+::: {.two .rule-top}
+
+## Dates {#dates}
+
+{{< include _dates.qmd >}}
+
+The second project evaluation came after the mid-semester break and the final presentation at the end of the semester.
+
+## Grading {#grading}
+
+Everything is out of **100 marks**.
+
+```{=html}
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Component</th><th>Marks</th><th>How</th></tr></thead>
+<tbody>
+<tr><th>Paper presentation</th><td class="big">10</td><td>A 20-minute presentation of a paper, graded by the instructor and by peers. See <a href="#presentation">criteria</a>.</td></tr>
+<tr><th>Paper review 1</th><td class="big">5</td><td>In class: based on the abstract, the introduction and fatal flaws.</td></tr>
+<tr><th>Paper review 2</th><td class="big">15</td><td>At home, on a review platform: everything in review 1 plus a full AI paper review covering risks, ethics and datasets. Read existing OpenReview reviews first.</td></tr>
+<tr><th>Class participation</th><td class="big">5</td><td>1 mark for each active class participation.</td></tr>
+<tr><th>Guest lecture quiz</th><td class="big">5</td><td>An in-class quiz on the <a href="seminar.html">guest lectures</a>.</td></tr>
+<tr><th>Project proposal and literature survey</th><td class="big">10</td><td>Project evaluation 1. See <a href="#project">the project</a>.</td></tr>
+<tr><th>Project mid-term presentation</th><td class="big">10</td><td>Project evaluation 2.</td></tr>
+<tr><th>Final project presentation</th><td class="big">15</td><td>Project evaluation 3.</td></tr>
+<tr><th>Attendance</th><td class="big">5</td><td></td></tr>
+<tr><th>Assignment 1</th><td class="big">10</td><td></td></tr>
+<tr><th>Assignment 2</th><td class="big">10</td><td></td></tr>
+<tr><th>Total</th><td class="big">100</td><td></td></tr>
+</tbody></table>
+```
+
+:::
+
+::: {.two .rule-top}
+
+## Paper presentation {#presentation}
+
+Each individual paper presentation is marked out of 10.
+
+```{=html}
+<table class="t att" style="max-width:420px" data-quarto-disable-processing="true">
+<thead><tr><th>Criterion</th><th>Marks</th></tr></thead>
+<tbody>
+<tr><td>Presentation quality (spoken and slides)</td><td>3</td></tr>
+<tr><td>Q&amp;A</td><td>1</td></tr>
+<tr><td>Discussion: reasons to accept</td><td>2</td></tr>
+<tr><td>Discussion: reasons to reject</td><td>2</td></tr>
+<tr><td>Explaining the approach</td><td>2</td></tr>
+<tr><td>Total</td><td>10</td></tr>
+</tbody></table>
+```
+
+Each presenter is expected to explain the paper's key ideas clearly, defend their interpretation during Q&A, and contribute to the discussion on whether the paper should be accepted or rejected.
+
+## Paper replication project {#project}
+
+Replicate a NeurIPS-like paper in a **social good setting**. The project is worth **35 marks** over three group evaluations.
+
+```{=html}
+<table class="t" data-quarto-disable-processing="true">
+<thead><tr><th>Evaluation</th><th>Marks</th><th>Format and criteria</th></tr></thead>
+<tbody>
+<tr><th>1. Proposal and Gantt chart<br><span class="small muted">19 Feb 2025 (Wednesday)</span></th><td class="big">10</td><td>A 10-minute group presentation. Understanding of the paper (4): the paper and its key contributions. Feasibility analysis (3): whether the paper can be replicated with the available code and data. Gantt chart and planning (3): a clear timeline with milestones.</td></tr>
+<tr><th>2. Mid-project progress<br><span class="small muted">After the mid-semester break</span></th><td class="big">10</td><td>A short update presentation of about 10 minutes. Replication progress (5): how much of the paper has been replicated. Challenges and solutions (3): problems faced and how the team is addressing them. Adherence to plan (2): whether the project is on track with the Gantt chart.</td></tr>
+<tr><th>3. Final presentation<br><span class="small muted">End of semester</span></th><td class="big">15</td><td>A detailed group presentation with results and learnings. Successful replication (6): whether the key experiments and results were reproduced. Social good adaptation (5): how well the replication is set in a social impact context. Analysis and insights (4): interpretation of results, limitations and future scope.</td></tr>
+</tbody></table>
+```
+
+:::

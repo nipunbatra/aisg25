@@ -1,76 +1,10 @@
 ---
-title: "Grading Policy"
+title: "Grading"
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=assessment.html#grading">
+    <link rel="canonical" href="https://nipunbatra.github.io/aisg25/assessment.html#grading">
+    <meta name="robots" content="noindex">
 ---
 
-
-| SNo | Activity                             | Marks | Notes                                                                                   |
-|-----|--------------------------------------|-------|-----------------------------------------------------------------------------------------|
-| 1   | Paper Presentation                   | 10    | 20 mins paper presentation: Instructor plus peer grading                               |
-| 2   | Paper Review 1                       | 5     | In class: Based on abstract, introduction, fatal flaws                                 |
-| 3   | Paper Review 2                       | 15    | At home: Above plus full-fledged AI paper review: risks, ethics, datasets; on review platform; Read from existing openReview reviews |
-| 4   | Class Participation                  | 5     | 1 mark for each active class participation                                             |
-| 5   | Guest Lecture: In-Class Quiz         | 5     |                                                                                         |
-| 6   | Project Proposal and Literature Survey | 10   |                                                                                         |
-| 7   | Project Mid-Term Presentation        | 10    |                                                                                         |
-| 8   | Final Project Presentation           | 15    |                                                                                         |
-| 9   | Attendance                           | 5     |                                                                                         |
-| 10  | Assignment 1                         | 10    |                                                                                         |
-| 11  | Assignment 2                         | 10    |                                                                                         |
-|     | **Total**                            | **100**|                                                                                         |
-
-
-# **Paper Presentation Evaluation Criteria**
-
-Each individual paper presentation will be evaluated based on the following criteria:
-
-| SNo | Category                                  | Marks |
-|---- |------------------------------------------|-------|
-| 1   | **Presentation Quality** (spoken and slides) | 3     |
-| 2   | **Q&A**                                  | 1     |
-| 3   | **Discussion: Reasons to Accept**       | 2     |
-| 4   | **Discussion: Reasons to Reject**       | 2     |
-| 5   | **Explaining Approach**                 | 2     |
-| **Total** | **—**                             | **10** |
-
-Each presenter is expected to clearly articulate the paper’s key ideas, defend their interpretation during Q&A, and contribute to discussions on whether the paper should be accepted or rejected.
-
----
-
-# **Paper Replication Project – Evaluation Plan**
-
-## **Objective**
-Replicate a NeurIPS-like paper in a **social good setting**.
-
-## **Total Marks**: **35 (10 + 10 + 15)**  
-- **Evaluation 1**: Proposal & Gantt Chart (**10 Marks**) – **Feb 19 (Wednesday)**  
-- **Evaluation 2**: Mid-Project Progress (**10 Marks**) – **Post Mid-Sem Break**  
-- **Evaluation 3**: Final Presentation (**15 Marks**) – **End of Semester**  
-
----
-
-## **Evaluation 1: Proposal & Gantt Chart (10 Marks) – Feb 19**
-- **Format**: 10-minute group presentation  
-- **Criteria**:
-  - **Understanding of the Paper** (**4 marks**) – Explanation of the paper and its key contributions  
-  - **Feasibility Analysis** (**3 marks**) – Assessment of whether the paper can be replicated based on available code/data  
-  - **Gantt Chart & Planning** (**3 marks**) – Clear project timeline with milestones  
-
----
-
-## **Evaluation 2: Mid-Project Progress (10 Marks) – Post Mid-Sem Break**
-- **Format**: Short update presentation (approx. 10 minutes)  
-- **Criteria**:
-  - **Replication Progress** (**5 marks**) – How much of the paper has been successfully replicated  
-  - **Challenges & Solutions** (**3 marks**) – Problems faced and how the team is addressing them  
-  - **Adherence to Plan** (**2 marks**) – Is the project on track as per the Gantt chart?  
-
----
-
-## **Evaluation 3: Final Presentation (15 Marks) – End of Semester**
-- **Format**: Detailed group presentation with results and learnings  
-- **Criteria**:
-  - **Successful Replication** (**6 marks**) – Whether key experiments/results were reproduced  
-  - **Social Good Adaptation** (**5 marks**) – How well the replication has been contextualized for social impact  
-  - **Analysis & Insights** (**4 marks**) – Interpretation of results, limitations, and future scope  
-
-
+This page has moved: [go to Grading](/assessment.html#grading).

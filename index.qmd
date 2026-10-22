@@ -1,71 +1,115 @@
 ---
-title: "AI For Social Good"
+pagetitle: "CS 691 · AI for Social Good"
+description: "AI for Social Good at IIT Gandhinagar, Semester II 2024–25"
+body-classes: dl wide
 ---
 
+::: {.top}
 
-![](images/logo.jpeg)
-
-::: {.callout-tip}
-Join the slack channel for the course [here](https://join.slack.com/t/aisg25/shared_invite/zt-2x40x4807-FnV~CCni2CzyrV~eXloG_A)
+::: {.top-main}
+```{=html}
+<span hidden></span><!-- keeps Quarto from moving the h1 into its own title block -->
+<h1 class="h1">AI for Social Good</h1>
+<p class="role">CS 691 · IIT Gandhinagar · Semester II, 2024–25</p>
+<p class="lede" style="margin-top:18px">This course explores how artificial intelligence can address critical challenges in healthcare, education, the environment and public safety, ethically and effectively. It draws on current research at venues such as IJCAI, AAAI, KDD and NeurIPS, and covers both the technical and the societal implications of AI-driven solutions.</p>
+<dl class="facts">
+  <dt>Instructor</dt><dd><a href="https://nipunbatra.github.io">Prof. Nipun Batra</a></dd>
+  <dt>Office</dt><dd>13/401C (<a href="https://www.youtube.com/shorts/FmCbCkJQN1g">directions</a>)</dd>
+  <dt>Email</dt><dd><a href="mailto:nipun.batra@iitgn.ac.in">nipun.batra@iitgn.ac.in</a></dd>
+  <dt>Format</dt><dd>Lectures, paper presentations and reviews, <a href="seminar.html">guest talks</a> and a paper replication project</dd>
+  <dt>Book</dt><dd><a href="https://ai4sibook.org"><i>AI for Social Impact</i></a>, Milind Tambe, Fei Fang and Bryan Wilder</dd>
+  <dt>Discussion</dt><dd><a href="https://join.slack.com/t/aisg25/shared_invite/zt-2x40x4807-FnV~CCni2CzyrV~eXloG_A">Course Slack</a></dd>
+</dl>
+```
 :::
 
-::: {.callout-tip}
-## Summary
-
-* Instructor: Nipun Batra <nipun.batra@iitgn.ac.in>
-    * Office: 13/401C
-    * [YouTube video](https://www.youtube.com/shorts/FmCbCkJQN1g) showing the directions to my office
-* Course Timings:
-    * Lectures:  
+::: {.next aria-labelledby="record-h"}
+```{=html}
+<span class="label" id="record-h">Course record</span>
+<p class="small" style="margin:0 0 12px">This offering began in January 2025. The site records its sessions up to February 2025, the guest talks and the grading scheme.</p>
+<dl>
+  <dt>Sessions</dt><dd><span class="stat">10</span></dd>
+  <dt>Guest talks</dt><dd><a href="seminar.html">3, one recorded</a></dd>
+  <dt>Project</dt><dd><a href="assessment.html#project">Paper replication</a></dd>
+  <dt>Grading</dt><dd><a href="assessment.html#grading">11 components</a></dd>
+</dl>
+<p class="all"><a href="assessment.html#dates">All dates</a></p>
+```
+:::
 
 :::
 
+```{=html}
+<section class="rule-top" id="lectures"><h2>Lectures</h2>
+<ul class="modules c3">
+  <li><span class="r">1–3</span><a href="schedule.html#introduction">Introduction</a><span class="c">3 lectures</span></li>
+  <li><span class="r">4–7</span><a href="schedule.html#paper-presentations">Paper presentations</a><span class="c">4 lectures</span></li>
+  <li><span class="r">8–10</span><a href="schedule.html#guest-talks">Guest talks</a><span class="c">3 lectures</span></li>
+</ul>
+<div class="playlists">
+  <a class="btn ib" href="https://www.youtube.com/@SustainabilityLab-SL" target="_blank" rel="noopener noreferrer"><svg class="ic ic-recording" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Recordings on YouTube</a>
+  <a class="btn solid" href="schedule.html">All 10 sessions</a>
+</div>
+</section>
 
+<div class="two rule-top" id="topics">
+<section id="domains"><h2>Domains</h2>
+<p class="small muted">Topics span a wide range of societal domains, including:</p>
+<ul class="refs">
+  <li><b>Healthcare:</b> AI for diagnosis, personalised medicine, public health monitoring and remote care</li>
+  <li><b>Environment and sustainability:</b> AI in climate modelling, pollution monitoring, energy efficiency and conservation</li>
+  <li><b>Disaster resilience:</b> AI for disaster prediction, response and resource management</li>
+  <li><b>Education:</b> personalised learning systems, intelligent tutoring and analysis of educational outcomes</li>
+  <li><b>Public safety and security:</b> social engineering, detecting misinformation and predictive policing</li>
+</ul>
+</section>
+<section id="methods"><h2>Methods</h2>
+<p class="small muted">The AI techniques covered include:</p>
+<ul class="refs">
+  <li><b>Supervised learning:</b> classification and prediction, such as disease diagnosis, fraud detection and poverty prediction</li>
+  <li><b>Unsupervised learning:</b> clustering and anomaly detection for environmental monitoring and resource allocation</li>
+  <li><b>Semi-supervised learning:</b> working with limited labelled data</li>
+  <li><b>Reinforcement learning:</b> resource optimisation, healthcare interventions and adaptive learning systems</li>
+  <li><b>Natural language processing:</b> sentiment analysis, misinformation detection and speech recognition</li>
+  <li><b>Computer vision:</b> object detection, segmentation and classification for environmental monitoring and healthcare imaging</li>
+  <li><b>Deep learning:</b> neural networks for complex social problems, such as medical imaging and disaster prediction</li>
+</ul>
+</section>
+</div>
 
-## Course Description
+<div class="two rule-top">
+<section id="faq"><h2>Questions</h2>
+<details class="q" id="presentation"><summary>How is a paper presentation graded?</summary><p>Each student gives a 20-minute presentation of a paper, graded by the instructor and by peers out of 10 marks: presentation quality (3), Q&amp;A (1), reasons to accept (2), reasons to reject (2) and explaining the approach (2). See <a href="assessment.html#presentation">Paper presentation</a>.</p></details>
+<details class="q" id="reviews"><summary>What are the two paper reviews?</summary><p>Review 1 (5 marks) is done in class and looks at the abstract, the introduction and fatal flaws. Review 2 (15 marks) is done at home on a review platform: everything in Review 1 plus a full AI paper review covering risks, ethics and datasets, informed by existing OpenReview reviews.</p></details>
+<details class="q" id="project"><summary>What is the project?</summary><p>Groups replicate a NeurIPS-like paper in a social good setting, for 35 marks over three evaluations: a proposal with a Gantt chart, a mid-project progress update and a final presentation. See <a href="assessment.html#project">Paper replication project</a>.</p></details>
+<details class="q" id="guest-lectures"><summary>Are guest lectures assessed?</summary><p>Yes. An in-class quiz on the guest lectures is worth 5 marks. The talks are listed on the <a href="seminar.html">Guest talks</a> page.</p></details>
+<details class="q" id="participation"><summary>How is class participation counted?</summary><p>One mark for each active class participation, up to 5 marks. Attendance is a separate 5 marks.</p></details>
+<p class="small muted" style="margin-top:12px">Ask anything else on <a href="https://join.slack.com/t/aisg25/shared_invite/zt-2x40x4807-FnV~CCni2CzyrV~eXloG_A">the course Slack</a>.</p>
+</section>
+<section id="references"><h2>References</h2>
+<p class="small muted">Textbook:</p>
+<ul class="refs">
+  <li>Milind Tambe, Fei Fang and Bryan Wilder, <i>AI for Social Impact</i> (<a href="https://ai4sibook.org">online</a>)</li>
+</ul>
+<p class="small muted" style="margin-top:14px">Research papers from AAAI, IJCAI, KDD, NeurIPS, ICLR and similar top conferences and symposia.</p>
+<p class="small muted" style="margin-top:14px">Related courses:</p>
+<ul class="refs">
+  <li><a href="https://cs288.hsites.harvard.edu/">AI for Social Impact</a>, Harvard</li>
+  <li><a href="https://crcs.seas.harvard.edu/ai-social-impact-fall-2020">AI for Social Impact seminar series</a>, Harvard, 2020</li>
+  <li>Social Good at Google</li>
+  <li>AI for Social Good, Stanford</li>
+  <li>AI for Social Good specialisation, Coursera</li>
+</ul>
+</section>
+</div>
 
-### Description
-This course explores the use of artificial intelligence (AI) to address critical challenges in societal domains such as healthcare, education, environment, and public safety. It aims to provide students with a deep understanding of how AI technologies can be applied ethically and effectively for social good, drawing from cutting-edge research. The course will focus on both the technical and societal implications of AI-driven solutions, highlighting the unique challenges and opportunities in this field. We will study the latest advancements in AI techniques presented at top-tier conferences like IJCAI, AAAI, KDD, and NeurIPS, examining how these can be harnessed to create impactful societal solutions. 
-
-### Contents
-Topics will span a wide array of AI domains such as but limited to:
-
-- Healthcare: AI for diagnosis, personalised medicine, public health monitoring, and remote care
-- Environment and Sustainability: AI in climate modelling, pollution monitoring, energy efficiency, and conservation
-- Disaster Resilience: AI for disaster prediction, response, and resource management
-- Education: Personalized learning systems, intelligent tutoring, analysis of educational outcomes
-- Public Safety and Security: Social engineering, AI for detecting misinformation, predictive policing
-
-The AI technologies would include:
-
-- Supervised Learning: Applications in classification and prediction tasks (e.g., disease diagnosis, fraud detection, poverty prediction)
-- Unsupervised Learning: Clustering and anomaly detection for environmental monitoring, resource allocation
-- Semi-supervised Learning: Addressing challenges with limited labelled data in social good applications
-- Reinforcement Learning: Applications in resource optimization, healthcare interventions, and adaptive learning systems
-- Natural Language Processing (NLP): Sentiment analysis, misinformation detection, speech recognition for social applications
-- Computer Vision: Object detection, segmentation and classification for environmental monitoring, healthcare imaging
-- Deep Learning: Use of neural networks for complex social problems (e.g., medical imaging, disaster prediction)
-
-
-## Texts/References:
-
-
-[AI for Social Impact Book](https://ai4sibook.org) by Milind Tambe, Fei Fang, and Bryan Wilder
-
- We will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.
-
-There are some related courses at top universities that would serve as a good reference
-- [AI for Social Impact course at Harvard](https://cs288.hsites.harvard.edu/)
-- [AI for Social Impact Seminar series 2020](https://crcs.seas.harvard.edu/ai-social-impact-fall-2020)
-- Social good at Google
-- AI for Social Good course at Stanford
-- AI for social good coursera specialisation
-
-
-## Tentative guest lectures (in no order)
-
-1. Dr. Alok Talekar, Google India
-2. Dr. Harsh Parikh, John Hopkins University
-3. Dr. Aparna Taneja, Google India
-4. Dr. Anupam Sobti, Plaksha University
-
+<section class="rule-top" id="people"><h2>Guest lectures</h2>
+<p class="small muted">Guest lecturers announced at the start of the course, in no particular order:</p>
+<ul class="people">
+  <li>Dr. Alok Talekar<span class="muted">Google India</span></li>
+  <li>Dr. Harsh Parikh<span class="muted">Johns Hopkins University</span></li>
+  <li>Dr. Aparna Taneja<span class="muted">Google India</span></li>
+  <li>Dr. Anupam Sobti<span class="muted">Plaksha University</span></li>
+</ul>
+</section>
+```

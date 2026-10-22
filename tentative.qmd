@@ -1,6 +1,10 @@
 ---
 title: "Tentative deadlines"
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=assessment.html#dates">
+    <link rel="canonical" href="https://nipunbatra.github.io/aisg25/assessment.html#dates">
+    <meta name="robots" content="noindex">
 ---
 
-
-TBD
+This page has moved: [go to Dates](/assessment.html#dates).

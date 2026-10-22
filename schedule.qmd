@@ -1,26 +1,50 @@
 ---
-title: "Schedule"
+title: "Lectures"
+body-classes: dl wide
 ---
 
-::: {.callout-tip}
-## Summary
-[YouTube playlist containing recordings](https://www.youtube.com/@SustainabilityLab-SL)
+<!-- Generated in the dl-2026 format: one <tr id="lecture-N"> per lecture, resources grouped as reading (mats), videos (vids) and practice (prac). Copy an existing link to add one. -->
 
+```{=html}
+<p class="lede">The sessions of the 2025 offering: instructor lectures, student paper presentations and guest talks. Recordings are on the <a href="https://www.youtube.com/@SustainabilityLab-SL">Sustainability Lab YouTube channel</a>.</p>
+<div class="key" aria-label="Key to resource icons"><span><svg class="ic ic-recording" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Full recording</span><span><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg>Reading</span></div>
+<nav class="jump" aria-label="Modules"><a href="#introduction">Introduction<span class="num">1–3</span></a><a href="#paper-presentations">Paper presentations<span class="num">4–7</span></a><a href="#guest-talks">Guest talks<span class="num">8–10</span></a></nav>
+<div class="playlists"><a class="btn ib" href="https://www.youtube.com/@SustainabilityLab-SL" target="_blank" rel="noopener noreferrer"><svg class="ic ic-recording" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Recordings on YouTube</a></div>
+<div class="lectures">
+<section class="mod" id="introduction" aria-labelledby="introduction-title"><div class="mod-h"><h2 id="introduction-title">Introduction</h2><span class="r">Lectures 1–3</span></div>
+<table class="lt" data-quarto-disable-processing="true"><tbody>
+<tr id="lecture-1"><td class="no"><span class="visually-hidden">Lecture </span>01</td><td class="topic"><h3 id="lecture-1-title">Introduction and logistics</h3></td>
+<td class="res"></td></tr>
+<tr id="lecture-2"><td class="no"><span class="visually-hidden">Lecture </span>02</td><td class="topic"><h3 id="lecture-2-title">Instructor lecture</h3></td>
+<td class="res"></td></tr>
+<tr id="lecture-3"><td class="no"><span class="visually-hidden">Lecture </span>03</td><td class="topic"><h3 id="lecture-3-title">Instructor lecture</h3></td>
+<td class="res"></td></tr>
+<tr id="brainstorm"><td class="no"><span aria-hidden="true">·</span></td><td class="topic"><h3 id="brainstorm-title">Brainstorm</h3><p class="sub">How AI for social good papers are reviewed: calls for papers, AAAI AI for Social Impact keywords, and abstracts of award-winning papers.</p></td>
+<td class="res"><div class="rl mats"><a class="r r-link" href="brainstorm.html" aria-label="Brainstorm questions and exercises, lecture 3"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Brainstorm questions and exercises</span></a></div></td></tr>
+</tbody></table></section>
 
-Content will get added here as the course progresses
+<section class="mod" id="paper-presentations" aria-labelledby="paper-presentations-title"><div class="mod-h"><h2 id="paper-presentations-title">Paper presentations</h2><span class="r">Lectures 4–7</span></div>
+<table class="lt" data-quarto-disable-processing="true"><tbody>
+<tr id="lecture-4"><td class="no"><span class="visually-hidden">Lecture </span>04</td><td class="topic"><h3 id="lecture-4-title">Paper presentations</h3></td>
+<td class="res"><div class="rl mats"><a class="r r-link" href="https://arxiv.org/abs/2402.06353" target="_blank" rel="noopener noreferrer" aria-label="Copycats: The many lives of a publicly available medical imaging dataset, lecture 4"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Copycats: The many lives of a publicly available medical imaging dataset</span></a><a class="r r-link" href="https://proceedings.mlr.press/v162/aguiar22a.html" target="_blank" rel="noopener noreferrer" aria-label="Learning of cluster-based feature importance for electronic health record time-series, lecture 4"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Learning of cluster-based feature importance for electronic health record time-series</span></a><a class="r r-link" href="https://arxiv.org/abs/2304.06131" target="_blank" rel="noopener noreferrer" aria-label="UniverSeg: Universal medical image segmentation, lecture 4"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">UniverSeg: Universal medical image segmentation</span></a></div></td></tr>
+<tr id="lecture-5"><td class="no"><span class="visually-hidden">Lecture </span>05</td><td class="topic"><h3 id="lecture-5-title">Paper presentations</h3></td>
+<td class="res"></td></tr>
+<tr id="lecture-6"><td class="no"><span class="visually-hidden">Lecture </span>06</td><td class="topic"><h3 id="lecture-6-title">Paper presentations</h3></td>
+<td class="res"></td></tr>
+<tr id="lecture-7"><td class="no"><span class="visually-hidden">Lecture </span>07</td><td class="topic"><h3 id="lecture-7-title">Paper presentations</h3></td>
+<td class="res"></td></tr>
+</tbody></table></section>
 
-:::
+<section class="mod" id="guest-talks" aria-labelledby="guest-talks-title"><div class="mod-h"><h2 id="guest-talks-title">Guest talks</h2><span class="r">Lectures 8–10</span></div>
+<table class="lt" data-quarto-disable-processing="true"><tbody>
+<tr id="lecture-8"><td class="no"><span class="visually-hidden">Lecture </span>08</td><td class="topic"><h3 id="lecture-8-title">Building infectious disease preparedness and combating AMR using explainable AI</h3><p class="sub">Dr. Tavpritesh Sethi, IIIT Delhi.</p></td>
+<td class="res"><div class="rl mats"><a class="r r-link" href="seminar.html#sethi" aria-label="Abstract and biosketch, lecture 8"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Abstract and biosketch</span></a></div><div class="rl vids"><a class="r r-recording" href="https://www.youtube.com/watch?v=KeQ7gTXpA1M" target="_blank" rel="noopener noreferrer" aria-label="Recording of the talk by Dr. Tavpritesh Sethi, lecture 8"><svg class="ic ic-recording" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg><span class="t">Recording</span></a></div></td></tr>
+<tr id="lecture-9"><td class="no"><span class="visually-hidden">Lecture </span>09</td><td class="topic"><h3 id="lecture-9-title">Applying geospatial machine learning for societal impact: Devices, satellites and images</h3><p class="sub">Dr. Anupam Sobti, Plaksha University.</p></td>
+<td class="res"><div class="rl mats"><a class="r r-link" href="seminar.html#sobti" aria-label="Abstract, lecture 9"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Abstract</span></a></div></td></tr>
+<tr id="lecture-10"><td class="no"><span class="visually-hidden">Lecture </span>10</td><td class="topic"><h3 id="lecture-10-title">Future of food: Addressing food and water security with machine learning</h3><p class="sub">Alok, Google DeepMind.</p></td>
+<td class="res"><div class="rl mats"><a class="r r-link" href="seminar.html#alok" aria-label="Abstract and biosketch, lecture 10"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span class="t">Abstract and biosketch</span></a></div></td></tr>
+</tbody></table></section>
 
-
-| Lecture # |    Date     | Topic          | Material | 
-| :------: | :--------: | :-------------------------: |:---------------:| 
-|     0     | 03 Jan 2025 | Introduction and Logistics |  
-|1| 08 Jan 2025| Lecture 1|
-|2| 10 Jan 2025| Class Cancelled|
-|3| 15 Jan 2025| Lecture 2|
-|4| 17 Jan 2025| Paper Presentation|[1]Copycats: The Many Lives of a Publicly Available Medical Imaging Dataset,[2] Learning of Cluster-based Feature Importance for Electronic Health Record Time-series, [3] UniverSeg: Universal Medical Image Segmentation|
-|5| 22 Jan 2025| Paper Presentation|
-|6| 24 Jan 2025| Paper Presentation|
-|7| 29 Jan 2025| Talk by Dr. Tavpritesh Sethi|Title: Building Infectious Disease Preparedness and Combating AMR Using Explainable Artificial Intelligence| <a href="https://www.youtube.com/watch?v=KeQ7gTXpA1M" target="_blank">Youtube</a>|
-|8| 31 Jan 2025| Paper Presentation|
-|9| 5 Feb 2025| Talk by Dr. Anupam Sobti| Title: Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images|
+</div>
+<p class="small muted">Each guest talk links its abstract and the speaker’s biosketch on the <a href="seminar.html">Guest talks</a> page.</p>
+```

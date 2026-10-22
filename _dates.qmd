@@ -1,0 +1,19 @@
+<!-- Course dates, shared by Assessment. Write dates as "08 Oct 25" or "08 Oct 25, 6:30 pm" (IST);
+     the page greys out past rows and draws the Today line from the date in the browser. -->
+
+::: {.dates}
+
+| Date | Event |
+|---|---|
+| 03 Jan 25 | Course begins: [introduction and logistics](schedule.html#lecture-1) |
+| 10 Jan 25 | Class cancelled |
+| 17 Jan 25 | [Paper presentations](schedule.html#lecture-4) |
+| 22 Jan 25 | [Paper presentations](schedule.html#lecture-5) |
+| 24 Jan 25 | [Paper presentations](schedule.html#lecture-6) |
+| 29 Jan 25 | [Guest talk: Dr. Tavpritesh Sethi](seminar.html#sethi) |
+| 31 Jan 25 | [Paper presentations](schedule.html#lecture-7) |
+| 05 Feb 25 | [Guest talk: Dr. Anupam Sobti](seminar.html#sobti) |
+| 19 Feb 25 | **Project evaluation 1:** proposal and Gantt chart |
+| 20 Feb 25 | [Guest talk: Alok, Google DeepMind](seminar.html#alok) |
+
+:::

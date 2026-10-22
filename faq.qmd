@@ -1,6 +1,10 @@
 ---
 title: "FAQ"
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=index.html#faq">
+    <link rel="canonical" href="https://nipunbatra.github.io/aisg25/index.html#faq">
+    <meta name="robots" content="noindex">
 ---
 
-
-TBD
+This page has moved: [go to Questions](/index.html#faq).
