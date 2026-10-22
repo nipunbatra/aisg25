@@ -1,135 +1,149 @@
 [
   {
-    "objectID": "seminar.html",
-    "href": "seminar.html",
-    "title": "AI for Social Good: Guest Speaker Series",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI for Social Good",
     "section": "",
-    "text": "🗓 Date: 29th January 2025\n\n\n👤 Speaker: Dr. Tavpritesh Sethi (IIIT Delhi)\n\n\n\n\nArtificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.\n\n\n\nDr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Center of Excellence in Healthcare. With a Ph.D. in computational biology, he is a globally recognized expert in data science for healthcare.\n🏆 He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge, and MIT Tech Review’s TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems, and multimodal AI tools.\n📄 Published 50+ papers | 🎤 TEDx Speaker | 🔬 Fellow at Kavli Foundation & DBT/Wellcome India Alliance"
-  },
-  {
-    "objectID": "seminar.html#building-infectious-disease-preparedness-and-combating-amr-using-explainable-ai",
-    "href": "seminar.html#building-infectious-disease-preparedness-and-combating-amr-using-explainable-ai",
-    "title": "AI for Social Good: Guest Speaker Series",
-    "section": "",
-    "text": "🗓 Date: 29th January 2025\n\n\n👤 Speaker: Dr. Tavpritesh Sethi (IIIT Delhi)\n\n\n\n\nArtificial Intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and high-risk Intensive Care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.\n\n\n\nDr. Tavpritesh Sethi is an Associate Professor at IIIT-Delhi and leads the Center of Excellence in Healthcare. With a Ph.D. in computational biology, he is a globally recognized expert in data science for healthcare.\n🏆 He has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge, and MIT Tech Review’s TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems, and multimodal AI tools.\n📄 Published 50+ papers | 🎤 TEDx Speaker | 🔬 Fellow at Kavli Foundation & DBT/Wellcome India Alliance"
-  },
-  {
-    "objectID": "seminar.html#applying-geospatial-machine-learning-for-societal-impact-devices-satellites-and-images",
-    "href": "seminar.html#applying-geospatial-machine-learning-for-societal-impact-devices-satellites-and-images",
-    "title": "AI for Social Good: Guest Speaker Series",
-    "section": "🌍 Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images",
-    "text": "🌍 Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images\n🗓 Date: 5th February 2025\n\n\n👤 Speaker: Anupam Sobti (Assistant professor at Plaksha University)\n\n\nAbstract\nAs artificial intelligence spreads its wings, it provides us an opportunity to tackle long standing societal problems by shortening the information gap – whether it’s information about the historical produce of a farm to a bank or declining condition of a road to your local municipal authority. In this talk, I will share examples and opportunities where machine learning based perception systems are being (or could be) used to provide economical and reliable information to the right users at the right time to address many challenges that arise in these socio-technical systems. We will discuss how these ‘sentients’ could enthuse efficiency in data-driven decision making for policy makers as well as operational pipelines."
-  },
-  {
-    "objectID": "seminar.html#future-of-food-addressing-food-water-security-with-machine-learning",
-    "href": "seminar.html#future-of-food-addressing-food-water-security-with-machine-learning",
-    "title": "AI for Social Good: Guest Speaker Series",
-    "section": "🌍 Future of Food: Addressing Food & Water Security with Machine Learning",
-    "text": "🌍 Future of Food: Addressing Food & Water Security with Machine Learning\n🗓 Date: 20th February 2025\n\n\n👤 Speaker: Alok (Google DeepMind)\n\n\n\nAbstract\nThe global food system faces unprecedented challenges. In 2023, 2.4 billion people experienced moderate to severe food insecurity due to climate change and shifting diets. Agriculture contributes significantly to greenhouse gas emissions, necessitating a shift toward sustainable practices.\n📈 To feed a projected 9.6 billion people by 2050, the FAO estimates a 60% increase in food production. Machine learning can drive this transformation through digitization, precision monitoring, and data-driven decisions.\n\n\nBiosketch\nAlok is a software engineer at Google DeepMind leading AnthroKrishi, a team focused on remote sensing and AI-driven agriculture solutions.\n🌍 Founding member of Climate Trace | 🎓 Google.org Fellow with WattTime | 👨‍💻 15 years in tech | 🤝 Leads a 5000-member grassroots climate group at Google\n\nStay tuned for more engaging talks in our AI for Social Good speaker series! 🚀"
-  },
-  {
-    "objectID": "brainstorm.html",
-    "href": "brainstorm.html",
-    "title": "Brainstorm",
-    "section": "",
-    "text": "Question 1: How do you think papers on AI for social good are reviewed?\nPlease see the CFP for 1. AAAI AI for Social Impact track 2. IJCAI AI for Social good track 3. KDD Applied Data Science track\nQuestion 2: Given some keywords from AI for SI at AAAI CFP - AI for Social Impact Keywords\nAISI: Agriculture and Food\nAISI: Climate\nAISI: Computational Social Science and Humanities\nAISI: Disaster Mitigation and Response AISI: Education\nAISI: Energy\nAISI: Environmental Sustainability\nAISI: Low and Middle-Income Countries / Underserved Communities\nAISI: Mobility / Transportation\nAISI: Natural Sciences\nAISI: Philosophical and Ethical Issues\nAISI: Public Health\nAISI: Security and Privacy\nAISI: Social Development\nAISI: Social Networks and Social Media\nAISI: Social Welfare, Justice, Fairness and Equality\nAISI: Urban Planning\nAISI: Other Social Impact\nThink of what kind of papers will these keywords attract?\nExercise 3: Let us read through abstracts of some of the best paper awards from AI for Social Impact track at top conferences like AAAI, IJCAI, KDD, NeurIPS, ICLR, etc.\n\nActiveRemediation: The Search for Lead Pipes in Flint, Michigan, YouTube from KDD 2018.\nDeveloping Measures of Cognitive Impairment in the Real World, YouTube from KDD 2019.\nDISCount: Counting in Large Image Collections with Detector-Based Importance Sampling from AAAI 2024.\n\nExercise 4: Let us read through the abstracts of some papers from AI for Social Impact track and score them on AAAI AI SI criteria."
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "AI For Social Good",
-    "section": "Course Description",
-    "text": "Course Description\n\nDescription\nThis course explores the use of artificial intelligence (AI) to address critical challenges in societal domains such as healthcare, education, environment, and public safety. It aims to provide students with a deep understanding of how AI technologies can be applied ethically and effectively for social good, drawing from cutting-edge research. The course will focus on both the technical and societal implications of AI-driven solutions, highlighting the unique challenges and opportunities in this field. We will study the latest advancements in AI techniques presented at top-tier conferences like IJCAI, AAAI, KDD, and NeurIPS, examining how these can be harnessed to create impactful societal solutions.\n\n\nContents\nTopics will span a wide array of AI domains such as but limited to:\n\nHealthcare: AI for diagnosis, personalised medicine, public health monitoring, and remote care\nEnvironment and Sustainability: AI in climate modelling, pollution monitoring, energy efficiency, and conservation\nDisaster Resilience: AI for disaster prediction, response, and resource management\nEducation: Personalized learning systems, intelligent tutoring, analysis of educational outcomes\nPublic Safety and Security: Social engineering, AI for detecting misinformation, predictive policing\n\nThe AI technologies would include:\n\nSupervised Learning: Applications in classification and prediction tasks (e.g., disease diagnosis, fraud detection, poverty prediction)\nUnsupervised Learning: Clustering and anomaly detection for environmental monitoring, resource allocation\nSemi-supervised Learning: Addressing challenges with limited labelled data in social good applications\nReinforcement Learning: Applications in resource optimization, healthcare interventions, and adaptive learning systems\nNatural Language Processing (NLP): Sentiment analysis, misinformation detection, speech recognition for social applications\nComputer Vision: Object detection, segmentation and classification for environmental monitoring, healthcare imaging\nDeep Learning: Use of neural networks for complex social problems (e.g., medical imaging, disaster prediction)"
-  },
-  {
-    "objectID": "index.html#textsreferences",
-    "href": "index.html#textsreferences",
-    "title": "AI For Social Good",
-    "section": "Texts/References:",
-    "text": "Texts/References:\nAI for Social Impact Book by Milind Tambe, Fei Fang, and Bryan Wilder\nWe will be following research publications appearing at AAAI, IJCAI, KDD, Neurips, ICLR, and similar top conferences or symposiums.\nThere are some related courses at top universities that would serve as a good reference - AI for Social Impact course at Harvard - AI for Social Impact Seminar series 2020 - Social good at Google - AI for Social Good course at Stanford - AI for social good coursera specialisation"
-  },
-  {
-    "objectID": "index.html#tentative-guest-lectures-in-no-order",
-    "href": "index.html#tentative-guest-lectures-in-no-order",
-    "title": "AI For Social Good",
-    "section": "Tentative guest lectures (in no order)",
-    "text": "Tentative guest lectures (in no order)\n\nDr. Alok Talekar, Google India\nDr. Harsh Parikh, John Hopkins University\nDr. Aparna Taneja, Google India\nDr. Anupam Sobti, Plaksha University"
-  },
-  {
-    "objectID": "exams/prereq.html",
-    "href": "exams/prereq.html",
-    "title": "Prerequsite test",
-    "section": "",
-    "text": "Instructions\n\nThis test is open book, open internet, open notes. You can use any resources you want to solve the problems.\nYou should be typing your answers in a Jupyter notebook.\nThe submission would be a link to a public GitHub repository containing the notebook. Fill this form to submit your solution.\nA random subset of students may have a viva post the exam. The viva would be based on the notebook and the solutions you have provided.\nThe test is open till 6th January 2024 9 PM. You can submit your solutions anytime before that.\nThis problem has to be solved individually. You cannot collaborate with anyone else.\nThe code should be written using Python.\nSome questions may require you to answer in text. You can use markdown cells to write your answers. Some questions may require you to write code. You can use code cells to write your code. Some questions may require you to write mathematical expressions. You can use LaTeX to write your expressions. You can write such LaTeX expressions in markdown cells.\nFor any other questions, please ask on the General channel on Slack.\n\n\n\n\nQuestions\n\nHow many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.\nWrite Python code to multiply the above two matrices. Solve using list of lists and then use numpy. Compare the timing of both solutions. Which one is faster? Why?\nFinding the highest element in a list requires one pass of the array. Finding the second highest element requires 2 passes of the the array. Using this method, what is the time complexity of finding the median of the array? Can you suggest a better method? Can you implement both these methods in Python and compare against numpy.median routine in terms of time?\nWhat is the gradient of the following function with respect to x and y? \\[\nx^2y+y^3\\sin(x)\n\\]\nUse JAX to confirm the gradient evaluated by your method matches the analytical solution corresponding to a few random values of x and y\nUse sympy to confirm that you obtain the same gradient analytically.\nCreate a Python nested dictionary to represent hierarchical information. We want to store record of students and their marks. Something like:\n\n2022\n\nBranch 1\n\nRoll Number: 1, Name: N, Marks:\n\nMaths: 100, English: 70 …\n\n\nBranch 2\n\n2023\n\nBranch 1\nBranch 2\n\n2024\n\nBranch 1\nBranch 2\n\n2025\n\nBranch 1\nBranch 2\n\n\nStore the same information using Python classes. We have an overall database which is a list of year objects. Each year contains a list of branches. Each branch contains a list of students. Each student has some properties like name, roll number and has marks in some subjects.\nUsing matplotlib plot the following functions on the domain: x = 0.5 to 100.0 in steps of 0.5.\n\n\\(y = x\\)\n\\(y = x^2\\)\n\\(y = \\frac{x^3}{100}\\)\n\\(y = \\sin(x)\\)\n\\(y = \\frac{\\sin(x)}{x}\\)\n\\(y = \\log(x)\\)\n\\(y = e^x\\)\n\nUsing numpy generate a matrix of size 20X5 containing random numbers drawn uniformly from the range of 1 to 2. Using Pandas create a dataframe out of this matrix. Name the columns of the dataframe as “a”, “b”, “c”, “d”, “e”. Find the column with the highest standard deviation. Find the row with the lowest mean.\nAdd a new column to the dataframe called “f” which is the sum of the columns “a”, “b”, “c”, “d”, “e”. Create another column called “g”. The value in the column “g” should be “LT8” if the value in the column “f” is less than 8 and “GT8” otherwise. Find the number of rows in the dataframe where the value in the column “g” is “LT8”. Find the standard deviation of the column “f” for the rows where the value in the column “g” is “LT8” and “GT8” respectively.\nWrite a small piece of code to explain broadcasting in numpy.\nWrite a function to compute the argmin of a numpy array. The function should take a numpy array as input and return the index of the minimum element. You can use the np.argmin function to verify your solution."
-  },
-  {
-    "objectID": "grading.html",
-    "href": "grading.html",
-    "title": "Grading Policy",
-    "section": "",
-    "text": "SNo\nActivity\nMarks\nNotes\n\n\n\n\n1\nPaper Presentation\n10\n20 mins paper presentation: Instructor plus peer grading\n\n\n2\nPaper Review 1\n5\nIn class: Based on abstract, introduction, fatal flaws\n\n\n3\nPaper Review 2\n15\nAt home: Above plus full-fledged AI paper review: risks, ethics, datasets; on review platform; Read from existing openReview reviews\n\n\n4\nClass Participation\n5\n1 mark for each active class participation\n\n\n5\nGuest Lecture: In-Class Quiz\n5\n\n\n\n6\nProject Proposal and Literature Survey\n10\n\n\n\n7\nProject Mid-Term Presentation\n10\n\n\n\n8\nFinal Project Presentation\n15\n\n\n\n9\nAttendance\n5\n\n\n\n10\nAssignment 1\n10\n\n\n\n11\nAssignment 2\n10\n\n\n\n\nTotal\n100"
-  },
-  {
-    "objectID": "grading.html#objective",
-    "href": "grading.html#objective",
-    "title": "Grading Policy",
-    "section": "Objective",
-    "text": "Objective\nReplicate a NeurIPS-like paper in a social good setting."
-  },
-  {
-    "objectID": "grading.html#total-marks-35-10-10-15",
-    "href": "grading.html#total-marks-35-10-10-15",
-    "title": "Grading Policy",
-    "section": "Total Marks: 35 (10 + 10 + 15)",
-    "text": "Total Marks: 35 (10 + 10 + 15)\n\nEvaluation 1: Proposal & Gantt Chart (10 Marks) – Feb 19 (Wednesday)\n\nEvaluation 2: Mid-Project Progress (10 Marks) – Post Mid-Sem Break\n\nEvaluation 3: Final Presentation (15 Marks) – End of Semester"
-  },
-  {
-    "objectID": "grading.html#evaluation-1-proposal-gantt-chart-10-marks-feb-19",
-    "href": "grading.html#evaluation-1-proposal-gantt-chart-10-marks-feb-19",
-    "title": "Grading Policy",
-    "section": "Evaluation 1: Proposal & Gantt Chart (10 Marks) – Feb 19",
-    "text": "Evaluation 1: Proposal & Gantt Chart (10 Marks) – Feb 19\n\nFormat: 10-minute group presentation\n\nCriteria:\n\nUnderstanding of the Paper (4 marks) – Explanation of the paper and its key contributions\n\nFeasibility Analysis (3 marks) – Assessment of whether the paper can be replicated based on available code/data\n\nGantt Chart & Planning (3 marks) – Clear project timeline with milestones"
-  },
-  {
-    "objectID": "grading.html#evaluation-2-mid-project-progress-10-marks-post-mid-sem-break",
-    "href": "grading.html#evaluation-2-mid-project-progress-10-marks-post-mid-sem-break",
-    "title": "Grading Policy",
-    "section": "Evaluation 2: Mid-Project Progress (10 Marks) – Post Mid-Sem Break",
-    "text": "Evaluation 2: Mid-Project Progress (10 Marks) – Post Mid-Sem Break\n\nFormat: Short update presentation (approx. 10 minutes)\n\nCriteria:\n\nReplication Progress (5 marks) – How much of the paper has been successfully replicated\n\nChallenges & Solutions (3 marks) – Problems faced and how the team is addressing them\n\nAdherence to Plan (2 marks) – Is the project on track as per the Gantt chart?"
-  },
-  {
-    "objectID": "grading.html#evaluation-3-final-presentation-15-marks-end-of-semester",
-    "href": "grading.html#evaluation-3-final-presentation-15-marks-end-of-semester",
-    "title": "Grading Policy",
-    "section": "Evaluation 3: Final Presentation (15 Marks) – End of Semester",
-    "text": "Evaluation 3: Final Presentation (15 Marks) – End of Semester\n\nFormat: Detailed group presentation with results and learnings\n\nCriteria:\n\nSuccessful Replication (6 marks) – Whether key experiments/results were reproduced\n\nSocial Good Adaptation (5 marks) – How well the replication has been contextualized for social impact\n\nAnalysis & Insights (4 marks) – Interpretation of results, limitations, and future scope"
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\n\n\n\nAI for Social Good\nCS 691 · IIT Gandhinagar · Semester II, 2024–25\nThis course explores how artificial intelligence can address critical challenges in healthcare, education, the environment and public safety, ethically and effectively. It draws on current research at venues such as IJCAI, AAAI, KDD and NeurIPS, and covers both the technical and the societal implications of AI-driven solutions.\n\n  InstructorProf. Nipun Batra\n  Office13/401C (directions)\n  Emailnipun.batra@iitgn.ac.in\n  FormatLectures, paper presentations and reviews, guest talks and a paper replication project\n  BookAI for Social Impact, Milind Tambe, Fei Fang and Bryan Wilder\n  DiscussionCourse Slack\n\n\n\nCourse record\nThis offering began in January 2025. The site records its sessions up to February 2025, the guest talks and the grading scheme.\n\n  Sessions10\n  Guest talks3, one recorded\n  ProjectPaper replication\n  Grading11 components\n\nAll dates\n\n\nLectures\n\n  1–3Introduction3 lectures\n  4–7Paper presentations4 lectures\n  8–10Guest talks3 lectures\n\n\n  Recordings on YouTube\n  All 10 sessions\n\n\n\n\nDomains\nTopics span a wide range of societal domains, including:\n\n  Healthcare: AI for diagnosis, personalised medicine, public health monitoring and remote care\n  Environment and sustainability: AI in climate modelling, pollution monitoring, energy efficiency and conservation\n  Disaster resilience: AI for disaster prediction, response and resource management\n  Education: personalised learning systems, intelligent tutoring and analysis of educational outcomes\n  Public safety and security: social engineering, detecting misinformation and predictive policing\n\n\nMethods\nThe AI techniques covered include:\n\n  Supervised learning: classification and prediction, such as disease diagnosis, fraud detection and poverty prediction\n  Unsupervised learning: clustering and anomaly detection for environmental monitoring and resource allocation\n  Semi-supervised learning: working with limited labelled data\n  Reinforcement learning: resource optimisation, healthcare interventions and adaptive learning systems\n  Natural language processing: sentiment analysis, misinformation detection and speech recognition\n  Computer vision: object detection, segmentation and classification for environmental monitoring and healthcare imaging\n  Deep learning: neural networks for complex social problems, such as medical imaging and disaster prediction\n\n\n\n\n\nQuestions\nHow is a paper presentation graded?Each student gives a 20-minute presentation of a paper, graded by the instructor and by peers out of 10 marks: presentation quality (3), Q&A (1), reasons to accept (2), reasons to reject (2) and explaining the approach (2). See Paper presentation.\nWhat are the two paper reviews?Review 1 (5 marks) is done in class and looks at the abstract, the introduction and fatal flaws. Review 2 (15 marks) is done at home on a review platform: everything in Review 1 plus a full AI paper review covering risks, ethics and datasets, informed by existing OpenReview reviews.\nWhat is the project?Groups replicate a NeurIPS-like paper in a social good setting, for 35 marks over three evaluations: a proposal with a Gantt chart, a mid-project progress update and a final presentation. See Paper replication project.\nAre guest lectures assessed?Yes. An in-class quiz on the guest lectures is worth 5 marks. The talks are listed on the Guest talks page.\nHow is class participation counted?One mark for each active class participation, up to 5 marks. Attendance is a separate 5 marks.\nAsk anything else on the course Slack.\n\nReferences\nTextbook:\n\n  Milind Tambe, Fei Fang and Bryan Wilder, AI for Social Impact (online)\n\nResearch papers from AAAI, IJCAI, KDD, NeurIPS, ICLR and similar top conferences and symposia.\nRelated courses:\n\n  AI for Social Impact, Harvard\n  AI for Social Impact seminar series, Harvard, 2020\n  Social Good at Google\n  AI for Social Good, Stanford\n  AI for Social Good specialisation, Coursera\n\n\n\n\nGuest lectures\nGuest lecturers announced at the start of the course, in no particular order:\n\n  Dr. Alok TalekarGoogle India\n  Dr. Harsh ParikhJohns Hopkins University\n  Dr. Aparna TanejaGoogle India\n  Dr. Anupam SobtiPlaksha University"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "Schedule",
+    "title": "Lectures",
     "section": "",
-    "text": "Summary\n\n\n\nYouTube playlist containing recordings\nContent will get added here as the course progresses\n\n\n\n\n\n\n\n\n\n\n\nLecture #\nDate\nTopic\nMaterial\n\n\n\n\n0\n03 Jan 2025\nIntroduction and Logistics\n\n\n\n1\n08 Jan 2025\nLecture 1\n\n\n\n2\n10 Jan 2025\nClass Cancelled\n\n\n\n3\n15 Jan 2025\nLecture 2\n\n\n\n4\n17 Jan 2025\nPaper Presentation\n[1]Copycats: The Many Lives of a Publicly Available Medical Imaging Dataset,[2] Learning of Cluster-based Feature Importance for Electronic Health Record Time-series, [3] UniverSeg: Universal Medical Image Segmentation\n\n\n5\n22 Jan 2025\nPaper Presentation\n\n\n\n6\n24 Jan 2025\nPaper Presentation\n\n\n\n7\n29 Jan 2025\nTalk by Dr. Tavpritesh Sethi\nTitle: Building Infectious Disease Preparedness and Combating AMR Using Explainable Artificial Intelligence\n\n\n8\n31 Jan 2025\nPaper Presentation\n\n\n\n9\n5 Feb 2025\nTalk by Dr. Anupam Sobti\nTitle: Applying Geospatial Machine Learning for Societal Impact: Devices, Satellites and Images"
-  },
-  {
-    "objectID": "tentative.html",
-    "href": "tentative.html",
-    "title": "Tentative deadlines",
-    "section": "",
-    "text": "TBD"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "FAQ",
-    "section": "",
-    "text": "TBD"
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\n\nThe sessions of the 2025 offering: instructor lectures, student paper presentations and guest talks. Recordings are on the Sustainability Lab YouTube channel.\nFull recordingReading\nIntroduction1–3Paper presentations4–7Guest talks8–10\nRecordings on YouTube\n\nIntroductionLectures 1–3\n\nLecture 01Introduction and logistics\n\nLecture 02Instructor lecture\n\nLecture 03Instructor lecture\n\n·BrainstormHow AI for social good papers are reviewed: calls for papers, AAAI AI for Social Impact keywords, and abstracts of award-winning papers.\nBrainstorm questions and exercises\n\n\nPaper presentationsLectures 4–7\n\nLecture 04Paper presentations\nCopycats: The many lives of a publicly available medical imaging datasetLearning of cluster-based feature importance for electronic health record time-seriesUniverSeg: Universal medical image segmentation\nLecture 05Paper presentations\n\nLecture 06Paper presentations\n\nLecture 07Paper presentations\n\n\n\nGuest talksLectures 8–10\n\nLecture 08Building infectious disease preparedness and combating AMR using explainable AIDr. Tavpritesh Sethi, IIIT Delhi.\nAbstract and biosketchRecording\nLecture 09Applying geospatial machine learning for societal impact: Devices, satellites and imagesDr. Anupam Sobti, Plaksha University.\nAbstract\nLecture 10Future of food: Addressing food and water security with machine learningAlok, Google DeepMind.\nAbstract and biosketch\n\n\n\nEach guest talk links its abstract and the speaker’s biosketch on the Guest talks page."
   },
   {
     "objectID": "quizzes.html",
     "href": "quizzes.html",
     "title": "Quizzes",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 30, 2023\n\n\nPrerequsite test\n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\nThis page has moved: go to Assessment."
+  },
+  {
+    "objectID": "assessment.html",
+    "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\nGrading, the paper presentation criteria, the paper replication project and every dated event of the 2025 offering in one place."
+  },
+  {
+    "objectID": "assessment.html#dates",
+    "href": "assessment.html#dates",
+    "title": "Assessment",
+    "section": "Dates",
+    "text": "Dates\n\n\n\n\n\nDate\nEvent\n\n\n\n\n03 Jan 25\nCourse begins: introduction and logistics\n\n\n10 Jan 25\nClass cancelled\n\n\n17 Jan 25\nPaper presentations\n\n\n22 Jan 25\nPaper presentations\n\n\n24 Jan 25\nPaper presentations\n\n\n29 Jan 25\nGuest talk: Dr. Tavpritesh Sethi\n\n\n31 Jan 25\nPaper presentations\n\n\n05 Feb 25\nGuest talk: Dr. Anupam Sobti\n\n\n19 Feb 25\nProject evaluation 1: proposal and Gantt chart\n\n\n20 Feb 25\nGuest talk: Alok, Google DeepMind\n\n\n\n\nThe second project evaluation came after the mid-semester break and the final presentation at the end of the semester."
+  },
+  {
+    "objectID": "assessment.html#grading",
+    "href": "assessment.html#grading",
+    "title": "Assessment",
+    "section": "Grading",
+    "text": "Grading\nEverything is out of 100 marks.\n\nComponentMarksHow\n\nPaper presentation10A 20-minute presentation of a paper, graded by the instructor and by peers. See criteria.\nPaper review 15In class: based on the abstract, the introduction and fatal flaws.\nPaper review 215At home, on a review platform: everything in review 1 plus a full AI paper review covering risks, ethics and datasets. Read existing OpenReview reviews first.\nClass participation51 mark for each active class participation.\nGuest lecture quiz5An in-class quiz on the guest lectures.\nProject proposal and literature survey10Project evaluation 1. See the project.\nProject mid-term presentation10Project evaluation 2.\nFinal project presentation15Project evaluation 3.\nAttendance5\nAssignment 110\nAssignment 210\nTotal100"
+  },
+  {
+    "objectID": "assessment.html#presentation",
+    "href": "assessment.html#presentation",
+    "title": "Assessment",
+    "section": "Paper presentation",
+    "text": "Paper presentation\nEach individual paper presentation is marked out of 10.\n\nCriterionMarks\n\nPresentation quality (spoken and slides)3\nQ&A1\nDiscussion: reasons to accept2\nDiscussion: reasons to reject2\nExplaining the approach2\nTotal10\n\nEach presenter is expected to explain the paper’s key ideas clearly, defend their interpretation during Q&A, and contribute to the discussion on whether the paper should be accepted or rejected."
+  },
+  {
+    "objectID": "assessment.html#project",
+    "href": "assessment.html#project",
+    "title": "Assessment",
+    "section": "Paper replication project",
+    "text": "Paper replication project\nReplicate a NeurIPS-like paper in a social good setting. The project is worth 35 marks over three group evaluations.\n\nEvaluationMarksFormat and criteria\n\n1. Proposal and Gantt chart19 Feb 2025 (Wednesday)10A 10-minute group presentation. Understanding of the paper (4): the paper and its key contributions. Feasibility analysis (3): whether the paper can be replicated with the available code and data. Gantt chart and planning (3): a clear timeline with milestones.\n2. Mid-project progressAfter the mid-semester break10A short update presentation of about 10 minutes. Replication progress (5): how much of the paper has been replicated. Challenges and solutions (3): problems faced and how the team is addressing them. Adherence to plan (2): whether the project is on track with the Gantt chart.\n3. Final presentationEnd of semester15A detailed group presentation with results and learnings. Successful replication (6): whether the key experiments and results were reproduced. Social good adaptation (5): how well the replication is set in a social impact context. Analysis and insights (4): interpretation of results, limitations and future scope."
+  },
+  {
+    "objectID": "brainstorm.html",
+    "href": "brainstorm.html",
+    "title": "Brainstorm",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\nIn-class questions and exercises on how AI for social good research is written, reviewed and judged."
+  },
+  {
+    "objectID": "brainstorm.html#q1",
+    "href": "brainstorm.html#q1",
+    "title": "Brainstorm",
+    "section": "Question 1",
+    "text": "Question 1\nHow do you think papers on AI for social good are reviewed? See the calls for papers of:\n\nAAAI AI for Social Impact track\nIJCAI AI for Social Good track\nKDD Applied Data Science track"
+  },
+  {
+    "objectID": "brainstorm.html#q2",
+    "href": "brainstorm.html#q2",
+    "title": "Brainstorm",
+    "section": "Question 2",
+    "text": "Question 2\nHere are the AI for Social Impact (AISI) keywords from the AAAI call for papers. What kind of papers will these keywords attract?\n\nAISI: Agriculture and Food\nAISI: Climate\nAISI: Computational Social Science and Humanities\nAISI: Disaster Mitigation and Response\nAISI: Education\nAISI: Energy\nAISI: Environmental Sustainability\nAISI: Low and Middle-Income Countries / Underserved Communities\nAISI: Mobility / Transportation\nAISI: Natural Sciences\nAISI: Philosophical and Ethical Issues\nAISI: Public Health\nAISI: Security and Privacy\nAISI: Social Development\nAISI: Social Networks and Social Media\nAISI: Social Welfare, Justice, Fairness and Equality\nAISI: Urban Planning\nAISI: Other Social Impact"
+  },
+  {
+    "objectID": "brainstorm.html#e3",
+    "href": "brainstorm.html#e3",
+    "title": "Brainstorm",
+    "section": "Exercise 3",
+    "text": "Exercise 3\nRead the abstracts of some best paper award winners from the AI for social impact tracks of top conferences such as AAAI, IJCAI, KDD, NeurIPS and ICLR:\n\nActiveRemediation: The Search for Lead Pipes in Flint, Michigan (YouTube), KDD 2018\nDeveloping Measures of Cognitive Impairment in the Real World (YouTube), KDD 2019\nDISCount: Counting in Large Image Collections with Detector-Based Importance Sampling, AAAI 2024"
+  },
+  {
+    "objectID": "brainstorm.html#e4",
+    "href": "brainstorm.html#e4",
+    "title": "Brainstorm",
+    "section": "Exercise 4",
+    "text": "Exercise 4\nRead the abstracts of some papers from the AI for Social Impact track and score them on the AAAI AI for Social Impact criteria."
+  },
+  {
+    "objectID": "exams/prereq.html",
+    "href": "exams/prereq.html",
+    "title": "Prerequisite test",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\nThis page has moved: go to the course home page."
+  },
+  {
+    "objectID": "tentative.html",
+    "href": "tentative.html",
+    "title": "Tentative deadlines",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\nThis page has moved: go to Dates."
+  },
+  {
+    "objectID": "grading.html",
+    "href": "grading.html",
+    "title": "Grading",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\nThis page has moved: go to Grading."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\n  \n\n\n\n\n\n\nThis page has moved: go to Questions."
+  },
+  {
+    "objectID": "seminar.html",
+    "href": "seminar.html",
+    "title": "Guest talks",
+    "section": "",
+    "text": "CS 691\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Guest talks\n    Brainstorm\n    Slack\nThe AI for Social Good guest speaker series of the 2025 offering. An in-class quiz on the guest lectures counts for 5 marks."
+  },
+  {
+    "objectID": "seminar.html#sethi",
+    "href": "seminar.html#sethi",
+    "title": "Guest talks",
+    "section": "Building infectious disease preparedness and combating AMR using explainable AI",
+    "text": "Building infectious disease preparedness and combating AMR using explainable AI\n29 January 2025 · Dr. Tavpritesh Sethi, IIIT Delhi · Recording\n\nAbstract\nArtificial intelligence (AI) is enhancing clinical decision-making using multimodal data. However, its application has largely been limited to imaging data. In this talk, I will showcase AI’s potential in combating antimicrobial resistance (AMR) and in high-risk intensive care settings. I will discuss barriers such as explainability and evaluation, proposing pathways for AI-enhanced health systems addressing global infectious diseases.\n\n\nBiosketch\nDr. Tavpritesh Sethi is an Associate Professor at IIIT Delhi and leads the Center of Excellence in Healthcare. With a PhD in computational biology, he is a globally recognised expert in data science for healthcare.\nHe has received awards for his work in AMR and AI-driven early disease detection from The Trinity Challenge, the Vivli AMR Challenge and MIT Technology Review’s TR35 India. His research focuses on data-driven clinical decision-making, early ICU warning systems and multimodal AI tools. He has published more than 50 papers, is a TEDx speaker, and is a Fellow of the Kavli Foundation and the DBT/Wellcome India Alliance."
+  },
+  {
+    "objectID": "seminar.html#sobti",
+    "href": "seminar.html#sobti",
+    "title": "Guest talks",
+    "section": "Applying geospatial machine learning for societal impact: Devices, satellites and images",
+    "text": "Applying geospatial machine learning for societal impact: Devices, satellites and images\n5 February 2025 · Dr. Anupam Sobti, Assistant Professor, Plaksha University\n\nAbstract\nAs artificial intelligence spreads its wings, it provides us an opportunity to tackle long-standing societal problems by shortening the information gap, whether it is information about the historical produce of a farm to a bank or the declining condition of a road to your local municipal authority. In this talk, I will share examples and opportunities where machine learning based perception systems are being (or could be) used to provide economical and reliable information to the right users at the right time, to address many challenges that arise in these socio-technical systems. We will discuss how these “sentients” could enthuse efficiency in data-driven decision making for policy makers as well as operational pipelines."
+  },
+  {
+    "objectID": "seminar.html#alok",
+    "href": "seminar.html#alok",
+    "title": "Guest talks",
+    "section": "Future of food: Addressing food and water security with machine learning",
+    "text": "Future of food: Addressing food and water security with machine learning\n20 February 2025 · Alok, Google DeepMind\n\nAbstract\nThe global food system faces unprecedented challenges. In 2023, 2.4 billion people experienced moderate to severe food insecurity due to climate change and shifting diets. Agriculture contributes significantly to greenhouse gas emissions, necessitating a shift toward sustainable practices.\nTo feed a projected 9.6 billion people by 2050, the FAO estimates a 60% increase in food production. Machine learning can drive this transformation through digitisation, precision monitoring and data-driven decisions.\n\n\nBiosketch\nAlok is a software engineer at Google DeepMind leading AnthroKrishi, a team focused on remote sensing and AI-driven agriculture solutions. He is a founding member of Climate TRACE and was a Google.org Fellow with WattTime. He has 15 years in technology and leads a 5,000-member grassroots climate group at Google."
   }
 ]
